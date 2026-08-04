@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T03:32:42.407291+00:00",
+  "generated_at": "2026-08-04T22:22:03.212227+00:00",
   "recipe_count": 111,
   "categories": [
     "Baking & Bread",
@@ -2755,13 +2755,13 @@
       }
     },
     {
-      "id": "incomplete-needs-review--gluten-free-mini-detroit-pizzas",
-      "title": "Gluten-Free Mini Detroit Pizzas",
+      "id": "incomplete-needs-review--gf-sourdough-boule-holy-cow-vegan",
+      "title": "GF Sourdough Boule (Holy Cow Vegan)",
       "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Detroit Pizzas GF Mini Loaf.md",
+      "file": "Incomplete - Needs Review/GF Sourdough Boule (Holy Cow Vegan).md",
       "source": {
-        "text": "Social media video (recipe details linked in the creator's bio — original link not captured)",
-        "url": null
+        "text": "Holy Cow Vegan — bookmarked, not yet fetched",
+        "url": "https://holycowvegan.net/gluten-free-sourdough-boule/"
       },
       "servings": "—",
       "time": {
@@ -2775,74 +2775,15 @@
       "ingredient_groups": [
         {
           "group": null,
-          "items": [
-            {
-              "raw": "Gluten-free flour blend suitable for bread/pizza (Caputo-type) — 240g (~2 cups)",
-              "quantity": null,
-              "unit": null,
-              "item": "Gluten-free flour blend suitable for bread/pizza (Caputo-type) — 240g (~2 cups)"
-            },
-            {
-              "raw": "Water, room temp — 230g (scant 1 cup)",
-              "quantity": null,
-              "unit": null,
-              "item": "Water, room temp — 230g (scant 1 cup)"
-            },
-            {
-              "raw": "Instant yeast — 4.5g (~1.5 tsp)",
-              "quantity": null,
-              "unit": null,
-              "item": "Instant yeast — 4.5g (~1.5 tsp)"
-            },
-            {
-              "raw": "Sugar — 4.5g (~1 tsp, heaping)",
-              "quantity": null,
-              "unit": null,
-              "item": "Sugar — 4.5g (~1 tsp, heaping)"
-            },
-            {
-              "raw": "Salt — 6.5g (~1 to 1 1/8 tsp table salt)",
-              "quantity": null,
-              "unit": null,
-              "item": "Salt — 6.5g (~1 to 1 1/8 tsp table salt)"
-            },
-            {
-              "raw": "Olive oil — 11.5g (~2.5 tsp)",
-              "quantity": null,
-              "unit": null,
-              "item": "Olive oil — 11.5g (~2.5 tsp)"
-            },
-            {
-              "raw": "Shredded mozzarella (or blend), for cheese edges",
-              "quantity": null,
-              "unit": null,
-              "item": "Shredded mozzarella (or blend), for cheese edges"
-            },
-            {
-              "raw": "Tomato/pizza sauce",
-              "quantity": null,
-              "unit": null,
-              "item": "Tomato/pizza sauce"
-            },
-            {
-              "raw": "Toppings of choice",
-              "quantity": null,
-              "unit": null,
-              "item": "Toppings of choice"
-            }
-          ]
+          "items": []
         }
       ],
-      "instructions": [
-        "Prepare the gluten-free dough using the flour blend and hydration above to get a soft, slightly sticky dough.",
-        "Proof until risen (timing varies by GF flour blend).",
-        "Oil mini Detroit-style pans (or a similar small rectangular pan). Press dough into each pan, spreading to the corners for a thick base.",
-        "Add sauce, cheese, and toppings — spread cheese to the edges so it caramelizes against the pan during baking, for authentic Detroit-style char.",
-        "Bake until golden with well-melted, slightly browned cheese edges (oven or air fryer).",
-        "Remove from the pan, let rest briefly, slice, and serve."
-      ],
+      "instructions": [],
       "notes": [
-        "**This one needs real sourcing before you cook it.** It was originally captured as an AI-generated summary of a recipe video, not the creator's actual written recipe — the method above is a reasonable outline, but exact proof times, oven temp, and bake time were never specified. Track down the original creator/video (the source mentioned \"the pan used and full recipe are linked in the bio\") for the real instructions before relying on this."
+        "**Could not recover full recipe this run.** This URL was in Mike's bookmarked-recipes export but the sandbox's network access couldn't reach holycowvegan.net (blocked by the workspace's egress allowlist), and the Chrome browser tool wasn't connected to retrieve it either.",
+        "A web search turned up only that it's a gluten-free, vegan, soy-free, nut-free sourdough boule using almond milk and apple cider vinegar — not enough to reconstruct ingredients or method accurately.",
+        "The database already has a GF sourdough boule from Art of Gluten-Free Baking (`Baking & Bread/GF Sourdough Boule (Art of Gluten-Free Baking).md`) — worth checking whether this is meant as an alternative/comparison recipe or was just a reference link.",
+        "To finish this one: open the link directly (or grant network/browser access) and re-run the recipe import."
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
@@ -2850,12 +2791,12 @@
       }
     },
     {
-      "id": "incomplete-needs-review--oven-roasted-eggplant",
-      "title": "Oven Roasted Eggplant",
+      "id": "incomplete-needs-review--keto-cheeseball-celery-sticks",
+      "title": "Keto Cheeseball Celery Sticks",
       "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Fine Cooking Oven Roasted Eggplant.md",
+      "file": "Incomplete - Needs Review/Keto Cheeseball Celery Sticks.md",
       "source": {
-        "text": "Fine Cooking — [original link](http://www.finecooking.com/recipes/oven_roasted_eggplant.aspx) is dead (the finecooking.com domain is now parked/for sale)",
+        "text": "stylehib.live — [keto-cheeseball-celery-sticks](https://www.stylehib.live/keto-cheeseball-celery-sticks/) — bookmarked, not yet fetched",
         "url": null
       },
       "servings": "—",
@@ -2875,76 +2816,9 @@
       ],
       "instructions": [],
       "notes": [
-        "**Could not recover this recipe.** The Fine Cooking domain no longer hosts any content — it's now a parked domain. A basic oven-roasted eggplant is simple to improvise (cubed or sliced eggplant, tossed with olive oil, salt, and pepper, roasted at 400–425°F until tender and browned, 25–35 minutes), but that's a generic method, not the specific Fine Cooking recipe.",
-        "Worth a search for \"Fine Cooking oven roasted eggplant\" if you want to try tracking down an archived copy elsewhere."
-      ],
-      "dietary_flags": {
-        "gluten_free_stated": false,
-        "possible_gluten_ingredients": []
-      }
-    },
-    {
-      "id": "incomplete-needs-review--mystery-slow-cooker-recipe",
-      "title": "Mystery Slow Cooker Recipe",
-      "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Mystery Slow Cooker Recipe (SparkPeople 770577).md",
-      "source": {
-        "text": "SparkRecipes — [original link](http://recipes.sparkpeople.com/recipe-detail.asp?recipe=770577) (found by Danielle) is no longer live",
-        "url": null
-      },
-      "servings": "—",
-      "time": {
-        "prep": "—",
-        "cook": "—",
-        "total": "—"
-      },
-      "oven": null,
-      "diet": null,
-      "cuisine": null,
-      "ingredient_groups": [
-        {
-          "group": null,
-          "items": []
-        }
-      ],
-      "instructions": [],
-      "notes": [
-        "**Could not recover this recipe.** SparkPeople/SparkRecipes shut down its old recipe database, and this ID wasn't findable through search or archive lookups — not even the recipe title came back. It was grouped with other crock-pot recipes Danielle collected, so it's likely a slow-cooker dish, but that's as much as is known.",
-        "If you remember roughly what this one was, it'd be easier to track down a replacement by name than by the old URL."
-      ],
-      "dietary_flags": {
-        "gluten_free_stated": false,
-        "possible_gluten_ingredients": []
-      }
-    },
-    {
-      "id": "incomplete-needs-review--tuscan-tortellini-stew",
-      "title": "Tuscan Tortellini Stew",
-      "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Tuscan Tortellini Stew.md",
-      "source": {
-        "text": "Good Housekeeping — [original link](http://www.goodhousekeeping.com/recipefinder/tortellini-tuscan-stew-4490) (found by Danielle) is no longer live",
-        "url": null
-      },
-      "servings": "—",
-      "time": {
-        "prep": "—",
-        "cook": "—",
-        "total": "—"
-      },
-      "oven": null,
-      "diet": null,
-      "cuisine": null,
-      "ingredient_groups": [
-        {
-          "group": null,
-          "items": []
-        }
-      ],
-      "instructions": [],
-      "notes": [
-        "**Could not recover this recipe.** The original Good Housekeeping URL Danielle found is dead, and it wasn't archived anywhere retrievable. Based on the title, this is very likely a white-bean-and-tortellini soup along the lines of other \"Tuscan tortellini\" recipes (cannellini beans, spinach or kale, tomato broth, cheese tortellini, Italian seasoning) — but nothing from the actual Good Housekeeping version was recoverable.",
-        "If this one matters to you, worth a quick search for \"Good Housekeeping Tuscan Tortellini Stew\" — Good Housekeeping may have republished it under a new URL."
+        "**Could not recover this recipe.** This URL was in Mike's bookmarked-recipes export but the sandbox's network access couldn't reach the site this run, and a web search turned up no trace of this specific page or recipe from stylehib.live — worth double-checking the link still works before chasing it further.",
+        "General idea (not from the source, just for reference): cream cheese-based \"cheeseball\" mixture served with celery sticks, in the style of other keto cheeseball recipes.",
+        "To finish this one: open the link directly (or grant network/browser access) and re-run the recipe import."
       ],
       "dietary_flags": {
         "gluten_free_stated": false,
@@ -4577,6 +4451,104 @@
       "notes": [],
       "dietary_flags": {
         "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--gluten-free-mini-detroit-pizzas",
+      "title": "Gluten-Free Mini Detroit Pizzas",
+      "category": "Mains",
+      "file": "Mains/Gluten-Free Mini Detroit Pizzas.md",
+      "source": {
+        "text": "Social media video (creator not captured; full recipe was linked in the video's bio)",
+        "url": null
+      },
+      "servings": "8 mini pizzas",
+      "time": {
+        "prep": "~2 hrs (dough rise + rest)",
+        "cook": "~16 min",
+        "total": "~2 hrs 20 min"
+      },
+      "oven": null,
+      "diet": "Gluten-Free",
+      "cuisine": "American (Detroit-style)",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "Gluten-free flour blend suitable for bread/pizza (Caputo-type) — 240g (~2 cups)",
+              "quantity": null,
+              "unit": null,
+              "item": "Gluten-free flour blend suitable for bread/pizza (Caputo-type) — 240g (~2 cups)"
+            },
+            {
+              "raw": "Water, room temp — 230g (scant 1 cup)",
+              "quantity": null,
+              "unit": null,
+              "item": "Water, room temp — 230g (scant 1 cup)"
+            },
+            {
+              "raw": "Instant yeast — 4.5g (~1.5 tsp)",
+              "quantity": null,
+              "unit": null,
+              "item": "Instant yeast — 4.5g (~1.5 tsp)"
+            },
+            {
+              "raw": "Sugar — 4.5g (~1 tsp, heaping)",
+              "quantity": null,
+              "unit": null,
+              "item": "Sugar — 4.5g (~1 tsp, heaping)"
+            },
+            {
+              "raw": "Salt — 6.5g (~1 to 1 1/8 tsp table salt)",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt — 6.5g (~1 to 1 1/8 tsp table salt)"
+            },
+            {
+              "raw": "Olive oil — 11.5g (~2.5 tsp)",
+              "quantity": null,
+              "unit": null,
+              "item": "Olive oil — 11.5g (~2.5 tsp)"
+            },
+            {
+              "raw": "Shredded mozzarella (or blend), for cheese edges",
+              "quantity": null,
+              "unit": null,
+              "item": "Shredded mozzarella (or blend), for cheese edges"
+            },
+            {
+              "raw": "Tomato/pizza sauce",
+              "quantity": null,
+              "unit": null,
+              "item": "Tomato/pizza sauce"
+            },
+            {
+              "raw": "Toppings of choice",
+              "quantity": null,
+              "unit": null,
+              "item": "Toppings of choice"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Prepare the gluten-free dough using the flour blend and hydration above to get a soft, slightly sticky dough.",
+        "Proof until risen (timing varies by GF flour blend).",
+        "Oil mini Detroit-style pans (or similar small rectangular pans). Divide dough into 8 pieces (~40g each) and press into each pan, spreading to the corners for a thick base.",
+        "Flatten dough with a spatula, cover with plastic wrap, and let rest about 2 hours.",
+        "Par-bake at 500°F for 6 minutes. Remove, butter the pans, and return the breads to the pans.",
+        "Add sauce, cheese, and toppings — spread cheese to the edges so it caramelizes against the pan during baking, for authentic Detroit-style char.",
+        "Bake at 450°F for about 10 minutes, until golden with well-melted, slightly browned cheese edges (oven or air fryer).",
+        "Remove from the pan, let rest briefly, slice, and serve."
+      ],
+      "notes": [
+        "Thick, airy gluten-free crust styled like Detroit pizza, with a crispy bottom and caramelized cheese edges. Mini, pan-sized portions ideal for sharing or meal prep.",
+        "Directions are adaptable for air fryer cooking."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
         "possible_gluten_ingredients": []
       }
     },
@@ -9415,6 +9387,130 @@
         "possible_gluten_ingredients": [
           "all-purpose flour"
         ]
+      }
+    },
+    {
+      "id": "soups-stews--cowboy-chili",
+      "title": "Cowboy Chili",
+      "category": "Soups & Stews",
+      "file": "Soups & Stews/Cowboy Chili.md",
+      "source": {
+        "text": "Delish (Country Living)",
+        "url": "http://www.delish.com/recipefinder/cowboy-chili-3567"
+      },
+      "servings": "6",
+      "time": {
+        "prep": "—",
+        "cook": "~1 hr 30 min",
+        "total": "—"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "American / Tex-Mex",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 tablespoon vegetable oil",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "vegetable oil"
+            },
+            {
+              "raw": "1 pound boneless chuck or rump roast, cut into 1/2-inch cubes",
+              "quantity": "1",
+              "unit": "pound",
+              "item": "boneless chuck or rump roast, cut into 1/2-inch cubes"
+            },
+            {
+              "raw": "1 large onion (about 2 cups), chopped",
+              "quantity": "1",
+              "unit": null,
+              "item": "large onion (about 2 cups), chopped"
+            },
+            {
+              "raw": "6 cloves garlic, minced",
+              "quantity": "6",
+              "unit": "cloves",
+              "item": "garlic, minced"
+            },
+            {
+              "raw": "2 cans (14 1/2 oz each) low-sodium beef broth, divided",
+              "quantity": "2",
+              "unit": "cans",
+              "item": "(14 1/2 oz each) low-sodium beef broth, divided"
+            },
+            {
+              "raw": "1 tablespoon chili powder",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "chili powder"
+            },
+            {
+              "raw": "1 teaspoon ground cumin",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "ground cumin"
+            },
+            {
+              "raw": "1 can (14 1/2 oz) diced low-sodium tomatoes",
+              "quantity": "1",
+              "unit": "can",
+              "item": "(14 1/2 oz) diced low-sodium tomatoes"
+            },
+            {
+              "raw": "2 dried ancho chiles",
+              "quantity": "2",
+              "unit": null,
+              "item": "dried ancho chiles"
+            },
+            {
+              "raw": "1 tablespoon masa harina de maiz",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "masa harina de maiz"
+            },
+            {
+              "raw": "1 cup water",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "water"
+            },
+            {
+              "raw": "2 cans (15 1/2 oz each) pinto beans, rinsed and drained",
+              "quantity": "2",
+              "unit": "cans",
+              "item": "(15 1/2 oz each) pinto beans, rinsed and drained"
+            },
+            {
+              "raw": "1/2 teaspoon salt",
+              "quantity": "1/2",
+              "unit": "teaspoon",
+              "item": "salt"
+            },
+            {
+              "raw": "1 tablespoon cider vinegar",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "cider vinegar"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "**Brown the meat:** In a large Dutch oven, heat the oil over medium-high heat. Once hot but not smoking, add the beef and cook until browned, about 5 minutes. Remove beef and set aside; reduce heat to medium.",
+        "**Make the chili:** Add onion to the Dutch oven and sauté until translucent, 3–5 minutes. Add garlic and cook 1 more minute. Return the meat to the pot. Gradually add 1 can of beef broth, scraping up the browned bits from the bottom. Add the chili powder, cumin, and tomatoes. Reduce heat to medium-low, cover, and simmer for 1 hour.",
+        "**Puree the chiles:** In a small saucepan over high heat, bring the remaining can of beef broth to a boil. Add the ancho chiles and let stand 15 minutes to hydrate. Remove and discard stems. Place the chili mixture and liquid in a blender or food processor and blend until smooth, 2–3 minutes.",
+        "**Finish the chili:** In a small bowl, whisk the masa harina and water together. Stir the masa mixture into the chili along with the pureed ancho chile mixture, pinto beans, salt, and vinegar. Simmer uncovered for 15 minutes. Serve hot."
+      ],
+      "notes": [
+        "Yields about 6 cups. Per serving: 400 calories, 11.1g fat, 76.3mg cholesterol, 489mg sodium, 11.4g carbs, 37.7g protein.",
+        "Mike would like this — it's got some chili-powder heat and ancho depth. Could go milder for Danielle/Clara by cutting the chili powder and skipping or reducing the ancho chiles."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
       }
     },
     {
