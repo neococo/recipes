@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-08-04T22:22:03.212227+00:00",
+  "generated_at": "2026-08-05T04:11:47.003415+00:00",
   "recipe_count": 111,
   "categories": [
     "Baking & Bread",
     "Breakfast",
     "Desserts",
-    "Incomplete - Needs Review",
     "Mains",
     "Sauces & Condiments",
     "Sides",
@@ -429,6 +428,126 @@
         "This makes a dense, rustic, chewy-crusted loaf (not big airy holes like wheat sourdough) — that's expected for gluten-free.",
         "Store unwrapped at room temperature, cut-side down — never in the fridge (goes stale fastest there). To freeze, wait until fully cool, then slice, wrap, and freeze up to 6 months.",
         "If different flours are substituted, sub by volume rather than weight for best results."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "baking-bread--gf-sourdough-boule-holy-cow-vegan",
+      "title": "GF Sourdough Boule (Holy Cow Vegan)",
+      "category": "Baking & Bread",
+      "file": "Baking & Bread/GF Sourdough Boule (Holy Cow Vegan).md",
+      "source": {
+        "text": "Holy Cow Vegan",
+        "url": "https://holycowvegan.net/gluten-free-sourdough-boule/"
+      },
+      "servings": "16 slices",
+      "time": {
+        "prep": "15 min",
+        "cook": "50 min",
+        "total": "~9 hrs 5 min"
+      },
+      "oven": null,
+      "diet": "Gluten-Free, Vegan, Soy-Free, Nut-Free",
+      "cuisine": "Artisan Bread",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1.5 cups gluten-free sourdough starter",
+              "quantity": "1.5",
+              "unit": "cups",
+              "item": "gluten-free sourdough starter"
+            },
+            {
+              "raw": "1 tablespoon coconut palm sugar (or maple syrup or any sugar)",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "coconut palm sugar (or maple syrup or any sugar)"
+            },
+            {
+              "raw": "1 cup warm water (not hot)",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "warm water (not hot)"
+            },
+            {
+              "raw": "1 cup nondairy milk (almond used)",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "nondairy milk (almond used)"
+            },
+            {
+              "raw": "1 teaspoon apple cider vinegar",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "apple cider vinegar"
+            },
+            {
+              "raw": "1.5 cups millet flour",
+              "quantity": "1.5",
+              "unit": "cups",
+              "item": "millet flour"
+            },
+            {
+              "raw": "0.5 cups buckwheat flour",
+              "quantity": "0.5",
+              "unit": "cups",
+              "item": "buckwheat flour"
+            },
+            {
+              "raw": "0.5 cups tapioca flour",
+              "quantity": "0.5",
+              "unit": "cups",
+              "item": "tapioca flour"
+            },
+            {
+              "raw": "0.5 cups rice flour",
+              "quantity": "0.5",
+              "unit": "cups",
+              "item": "rice flour"
+            },
+            {
+              "raw": "2 tablespoons xanthan gum",
+              "quantity": "2",
+              "unit": "tablespoons",
+              "item": "xanthan gum"
+            },
+            {
+              "raw": "1 teaspoon sea salt",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "sea salt"
+            },
+            {
+              "raw": "2 tablespoons extra virgin olive oil",
+              "quantity": "2",
+              "unit": "tablespoons",
+              "item": "extra virgin olive oil"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Whisk the apple cider vinegar into the nondairy milk.",
+        "In the bowl of a stand mixer with the dough hook attached (or a large bowl if kneading by hand), place the sourdough starter. Add the sugar, warm water, and the milk/vinegar mixture, and mix together on low speed or by hand.",
+        "Add the flours and xanthan gum directly into the bowl, one by one, kneading a little as you go so they're thoroughly incorporated. Knead for a couple of minutes until you have a tacky, slightly sticky dough. If the dough looks dry, drizzle in a little more water and knead.",
+        "Drizzle in the olive oil and knead for a couple more minutes until absorbed.",
+        "Turn the dough onto a countertop and knead slightly before shaping into a boule. Lightly oil your hands before handling — the dough should be slightly tacky but still supple.",
+        "Line a bowl with parchment paper and sprinkle liberally with gluten-free flour (rice flour works well). Place the boule on the parchment, cover loosely with a kitchen towel (or shower cap), and let rise overnight (about 8-10 hours) in a warm place, like an oven with the pilot light on.",
+        "About 30 minutes before baking, preheat the oven to 500°F with a 3- or 4-quart dutch oven inside. Carefully remove the hot dutch oven to the countertop (use oven mitts — it will be extremely hot).",
+        "Pick up the boule by the parchment paper and roll it quickly into the dutch oven so the seam side, previously on the bottom, is now on top. Cover with the lid and return to the oven.",
+        "After 30 minutes, remove the lid and turn the oven down to 450°F. Bake for another 20 minutes.",
+        "Remove the dutch oven to a rack and let the bread stand until completely cool. It should unmold easily; if not, run a knife along the sides of the pot."
+      ],
+      "notes": [
+        "Slightly crusty, charred exterior with a soft crumb — good for sandwiches, dunking in soup or stew, or grilling with vegan butter or olive oil.",
+        "Make sure the sourdough starter is at least a week old, active, and well-fed (feed at least twice the day before baking).",
+        "Only needs one rise, unlike wheat-based breads.",
+        "The household already has a GF sourdough boule from Art of Gluten-Free Baking (`Baking & Bread/GF Sourdough Boule (Art of Gluten-Free Baking).md`) — this is a different flour blend/method (millet-buckwheat-tapioca-rice, dutch oven bake) worth comparing against."
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
@@ -2748,77 +2867,6 @@
       "notes": [
         "A water bath is essential for this particular recipe — don't skip it.",
         "The crust ingredient list names \"pecan-gingersnap,\" but the exact gingersnap and pecan quantities weren't included in the source text — start with about 1 cup crushed gingersnaps and 1/2 cup pecans in place of some of the graham cracker crumbs, and adjust to taste."
-      ],
-      "dietary_flags": {
-        "gluten_free_stated": false,
-        "possible_gluten_ingredients": []
-      }
-    },
-    {
-      "id": "incomplete-needs-review--gf-sourdough-boule-holy-cow-vegan",
-      "title": "GF Sourdough Boule (Holy Cow Vegan)",
-      "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/GF Sourdough Boule (Holy Cow Vegan).md",
-      "source": {
-        "text": "Holy Cow Vegan — bookmarked, not yet fetched",
-        "url": "https://holycowvegan.net/gluten-free-sourdough-boule/"
-      },
-      "servings": "—",
-      "time": {
-        "prep": "—",
-        "cook": "—",
-        "total": "—"
-      },
-      "oven": null,
-      "diet": null,
-      "cuisine": null,
-      "ingredient_groups": [
-        {
-          "group": null,
-          "items": []
-        }
-      ],
-      "instructions": [],
-      "notes": [
-        "**Could not recover full recipe this run.** This URL was in Mike's bookmarked-recipes export but the sandbox's network access couldn't reach holycowvegan.net (blocked by the workspace's egress allowlist), and the Chrome browser tool wasn't connected to retrieve it either.",
-        "A web search turned up only that it's a gluten-free, vegan, soy-free, nut-free sourdough boule using almond milk and apple cider vinegar — not enough to reconstruct ingredients or method accurately.",
-        "The database already has a GF sourdough boule from Art of Gluten-Free Baking (`Baking & Bread/GF Sourdough Boule (Art of Gluten-Free Baking).md`) — worth checking whether this is meant as an alternative/comparison recipe or was just a reference link.",
-        "To finish this one: open the link directly (or grant network/browser access) and re-run the recipe import."
-      ],
-      "dietary_flags": {
-        "gluten_free_stated": true,
-        "possible_gluten_ingredients": []
-      }
-    },
-    {
-      "id": "incomplete-needs-review--keto-cheeseball-celery-sticks",
-      "title": "Keto Cheeseball Celery Sticks",
-      "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Keto Cheeseball Celery Sticks.md",
-      "source": {
-        "text": "stylehib.live — [keto-cheeseball-celery-sticks](https://www.stylehib.live/keto-cheeseball-celery-sticks/) — bookmarked, not yet fetched",
-        "url": null
-      },
-      "servings": "—",
-      "time": {
-        "prep": "—",
-        "cook": "—",
-        "total": "—"
-      },
-      "oven": null,
-      "diet": null,
-      "cuisine": null,
-      "ingredient_groups": [
-        {
-          "group": null,
-          "items": []
-        }
-      ],
-      "instructions": [],
-      "notes": [
-        "**Could not recover this recipe.** This URL was in Mike's bookmarked-recipes export but the sandbox's network access couldn't reach the site this run, and a web search turned up no trace of this specific page or recipe from stylehib.live — worth double-checking the link still works before chasing it further.",
-        "General idea (not from the source, just for reference): cream cheese-based \"cheeseball\" mixture served with celery sticks, in the style of other keto cheeseball recipes.",
-        "To finish this one: open the link directly (or grant network/browser access) and re-run the recipe import."
       ],
       "dietary_flags": {
         "gluten_free_stated": false,
@@ -9024,6 +9072,100 @@
         "possible_gluten_ingredients": [
           "Flour tortillas"
         ]
+      }
+    },
+    {
+      "id": "snacks-appetizers--keto-cheeseball-celery-sticks",
+      "title": "Keto Cheeseball Celery Sticks",
+      "category": "Snacks & Appetizers",
+      "file": "Snacks & Appetizers/Keto Cheeseball Celery Sticks.md",
+      "source": {
+        "text": "Instagram - your.keto.buddy, recipe by @lowkarbkhaleesi (original stylehib.live bookmark link is dead; recovered via search)",
+        "url": "https://www.instagram.com/reel/DAFQB56TAdy/?hl=en"
+      },
+      "servings": "1 bunch celery's worth (party appetizer / meal prep portion)",
+      "time": {
+        "prep": "—",
+        "cook": "—",
+        "total": "—"
+      },
+      "oven": null,
+      "diet": "Keto, Gluten-Free",
+      "cuisine": "American",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 bunch celery, washed and cut into sticks",
+              "quantity": "1",
+              "unit": "bunch",
+              "item": "celery, washed and cut into sticks"
+            },
+            {
+              "raw": "8 oz cream cheese, softened",
+              "quantity": "8",
+              "unit": "oz",
+              "item": "cream cheese, softened"
+            },
+            {
+              "raw": "1 tablespoon ranch seasoning",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "ranch seasoning"
+            },
+            {
+              "raw": "1/4 teaspoon garlic powder",
+              "quantity": "1/4",
+              "unit": "teaspoon",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "2 green onions, chopped",
+              "quantity": "2",
+              "unit": null,
+              "item": "green onions, chopped"
+            },
+            {
+              "raw": "1/2 cup ham, chopped",
+              "quantity": "1/2",
+              "unit": "cup",
+              "item": "ham, chopped"
+            },
+            {
+              "raw": "1/4 cup shredded cheddar",
+              "quantity": "1/4",
+              "unit": "cup",
+              "item": "shredded cheddar"
+            },
+            {
+              "raw": "1 teaspoon Worcestershire sauce",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "Worcestershire sauce"
+            },
+            {
+              "raw": "Everything But the Bagel seasoning, for sprinkling",
+              "quantity": null,
+              "unit": null,
+              "item": "Everything But the Bagel seasoning, for sprinkling"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Whip the cream cheese with the ranch seasoning and garlic powder until smooth.",
+        "Stir in the green onions, ham, shredded cheddar, and Worcestershire sauce.",
+        "Spread the mixture onto celery sticks.",
+        "Sprinkle with Everything But the Bagel seasoning and serve."
+      ],
+      "notes": [
+        "Great as a party appetizer or for meal-prepped snacking — keeps well in the fridge for several days.",
+        "The original bookmarked link (stylehib.live) is dead; this was tracked down via search to the source it appears to have been reposted from."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
       }
     },
     {
