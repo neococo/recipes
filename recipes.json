@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T04:11:47.003415+00:00",
-  "recipe_count": 111,
+  "generated_at": "2026-08-07T01:12:13.696281+00:00",
+  "recipe_count": 112,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -548,6 +548,85 @@
         "Make sure the sourdough starter is at least a week old, active, and well-fed (feed at least twice the day before baking).",
         "Only needs one rise, unlike wheat-based breads.",
         "The household already has a GF sourdough boule from Art of Gluten-Free Baking (`Baking & Bread/GF Sourdough Boule (Art of Gluten-Free Baking).md`) — this is a different flour blend/method (millet-buckwheat-tapioca-rice, dutch oven bake) worth comparing against."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "baking-bread--gluten-free-sourdough-bread",
+      "title": "Gluten-Free Sourdough Bread",
+      "category": "Baking & Bread",
+      "file": "Baking & Bread/GF Sourdough Bread (King Arthur).md",
+      "source": {
+        "text": "King Arthur Baking (Jonathan Brasil)",
+        "url": "https://www.kingarthurbaking.com/recipes/gluten-free-sourdough-bread-recipe"
+      },
+      "servings": "1 large bâtard or boule",
+      "time": {
+        "prep": "15 mins",
+        "cook": "45 min – 1 hr",
+        "total": "~12 hrs 57 mins"
+      },
+      "oven": "500°F preheat, reduce to 450°F for baking",
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 1/2 cups (259g) [gluten-free sourdough starter made with bread flour](https://www.kingarthurbaking.com/recipes/gluten-free-sourdough-starter-made-with-bread-flour-recipe)*",
+              "quantity": "1 1/2",
+              "unit": "cups",
+              "item": "(259g) [gluten-free sourdough starter made with bread flour](https://www.kingarthurbaking.com/recipes/gluten-free-sourdough-starter-made-with-bread-flour-recipe)*"
+            },
+            {
+              "raw": "1 3/4 cups plus 1 tablespoon (412g) water, warm (110°F)",
+              "quantity": "1 3/4",
+              "unit": "cups",
+              "item": "plus 1 tablespoon (412g) water, warm (110°F)"
+            },
+            {
+              "raw": "3 1/4 cups (390g) King Arthur Gluten-Free Bread Flour, plus more for kneading",
+              "quantity": "3 1/4",
+              "unit": "cups",
+              "item": "(390g) King Arthur Gluten-Free Bread Flour, plus more for kneading"
+            },
+            {
+              "raw": "1 tablespoon (12g) granulated sugar",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "(12g) granulated sugar"
+            },
+            {
+              "raw": "1 3/4 teaspoons (10g) table salt",
+              "quantity": "1 3/4",
+              "unit": "teaspoons",
+              "item": "(10g) table salt"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "In the bowl of a stand mixer fitted with the flat beater attachment, combine all of the dough ingredients on medium speed for 2 to 3 minutes, until the mixture is cohesive and smooth. The dough will be very sticky, wet, and batter-like at this stage.",
+        "Cover the bowl and let the dough rest for 20 minutes so the flour hydrates and the dough becomes stiffer. Then, on a floured work surface, gently knead the dough — fold it in half toward you (a bowl scraper helps), pat it down, rotate 90°, and fold again. Repeat 5–7 times, until the dough is firmer, smoother, and easier to handle. Dust your surface, hands, and the dough with flour as needed to prevent sticking.",
+        "Return the dough to the bowl, cover, and let it rise for 2 1/2 to 4 hours, or until very puffy. If your home is cool, place the bowl somewhere warm, like an oven with the light on or a sunny window.",
+        "Transfer the dough to a greased or floured surface and gently deflate it. Shape into a loose bâtard or boule — you won't be able to shape this dough as tightly as a wheat sourdough; instead mold and massage it into shape. Place seam-side up in a brotform, bowl, or other vessel lined with a towel and dusted with flour. It's OK if the vessel is very full.",
+        "For the most flavorful bread, cover the brotform with plastic wrap or a bowl cover and refrigerate for 16 to 24 hours. Otherwise, cover and let rise for 45 to 60 minutes at room temperature, until puffy.",
+        "Meanwhile, preheat the oven to 500°F for at least 45 minutes with a cast iron pan on the bottom of the oven or lowest rack. Place a baking steel or stone on the middle rack to preheat. (See Notes for a Dutch oven alternative.)",
+        "Line a baker's peel, rimless cookie sheet, or the back of a sheet pan with parchment. Turn the dough out onto the parchment and score the top with a lame or very sharp knife.",
+        "Slide the dough (still on parchment) onto the baking steel or stone. Carefully pour about 1 cup of water into the cast iron pan and quickly shut the oven door — wear good oven mitts, as it will produce hot, billowing steam.",
+        "Immediately reduce the oven temperature to 450°F and bake for 45 to 50 minutes, or until well browned and the internal temperature reaches 209°F. Gluten-free bread retains water longer than conventional bread, so internal temperature is the best doneness indicator.",
+        "For the crispest crust, turn off the oven, crack the door open about 2\", and let the bread cool completely inside. Ideally slice it the next day, or at least 8 hours after removing it from the oven.",
+        "Store airtight at room temperature for 2–3 days. For longer storage, freeze slices for easy toasting."
+      ],
+      "notes": [
+        "**Shortcut starter method (using French Sourdough Starter):** In a stand mixer with the flat beater (or a bowl with a whisk), combine 1/2 cup (113g) cool water, 1/2 cup (60g) King Arthur Gluten-Free Bread Flour, and 1/4 teaspoon French Sourdough Starter until a sticky dough forms (about 1 minute on medium speed if using a mixer). Lumps are fine. Cover and set aside at room temperature 16–24 hours, until bubbly and aromatic. Use this mixture in place of the gluten-free sourdough starter in step 1, and add 1 teaspoon instant or active dry yeast to the dough ingredients.",
+        "**Seed soaker (optional, for flavor/texture):** The night before mixing, soak 100g (~3/4 cup) gluten-free grains/seeds (rolled oats, brown rice, poppy seeds, sesame seeds, or sunflower seeds), preferably toasted, in 1/2 cup (113g) cool water. Drain well the next day, pressing out excess water, and incorporate into the dough in step 1. Avoid chia and flax seeds, which gel when soaked.",
+        "**Dutch oven method:** Preheat a 4–5 quart Dutch oven on the middle rack at 500°F (step 4/6). After the dough has risen, turn it out onto parchment, score, and place into the hot Dutch oven. Cover, immediately reduce heat to 450°F, and bake 40 minutes; uncover and bake 10–20 minutes more until the crust is as brown as you like.",
+        "Bread's tang is milder than wheat sourdough, making it versatile for jam or sandwiches."
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
