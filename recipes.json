@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T01:12:13.696281+00:00",
-  "recipe_count": 112,
+  "generated_at": "2026-08-15T20:59:31.088517+00:00",
+  "recipe_count": 113,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -4676,6 +4676,148 @@
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--greek-sheet-pan-chicken",
+      "title": "Greek Sheet Pan Chicken",
+      "category": "Mains",
+      "file": "Mains/Greek Sheet Pan Chicken.md",
+      "source": {
+        "text": "Kristine's Kitchen",
+        "url": "https://kristineskitchenblog.com/greek-sheet-pan-chicken/"
+      },
+      "servings": "4",
+      "time": {
+        "prep": "20 min",
+        "cook": "25 min",
+        "total": "45 min"
+      },
+      "oven": "425°F",
+      "diet": null,
+      "cuisine": "Greek / Mediterranean",
+      "ingredient_groups": [
+        {
+          "group": "For the seasoning",
+          "items": [
+            {
+              "raw": "3 tablespoons olive oil",
+              "quantity": "3",
+              "unit": "tablespoons",
+              "item": "olive oil"
+            },
+            {
+              "raw": "Zest of 1 lemon",
+              "quantity": null,
+              "unit": null,
+              "item": "Zest of 1 lemon"
+            },
+            {
+              "raw": "2 cloves garlic, minced",
+              "quantity": "2",
+              "unit": "cloves",
+              "item": "garlic, minced"
+            },
+            {
+              "raw": "1 teaspoon dried oregano",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "dried oregano"
+            },
+            {
+              "raw": "½ teaspoon salt",
+              "quantity": null,
+              "unit": null,
+              "item": "½ teaspoon salt"
+            },
+            {
+              "raw": "¼ teaspoon black pepper",
+              "quantity": null,
+              "unit": null,
+              "item": "¼ teaspoon black pepper"
+            }
+          ]
+        },
+        {
+          "group": "For the sheet pan",
+          "items": [
+            {
+              "raw": "8 ounces cremini mushrooms, quartered",
+              "quantity": "8",
+              "unit": "ounces",
+              "item": "cremini mushrooms, quartered"
+            },
+            {
+              "raw": "1 medium zucchini, sliced into ½-inch thick half rounds",
+              "quantity": "1",
+              "unit": null,
+              "item": "medium zucchini, sliced into ½-inch thick half rounds"
+            },
+            {
+              "raw": "1 red bell pepper, chopped into 1-inch pieces",
+              "quantity": "1",
+              "unit": null,
+              "item": "red bell pepper, chopped into 1-inch pieces"
+            },
+            {
+              "raw": "1 yellow bell pepper, chopped into 1-inch pieces",
+              "quantity": "1",
+              "unit": null,
+              "item": "yellow bell pepper, chopped into 1-inch pieces"
+            },
+            {
+              "raw": "1 small red onion, chopped into 1-inch pieces",
+              "quantity": "1",
+              "unit": null,
+              "item": "small red onion, chopped into 1-inch pieces"
+            },
+            {
+              "raw": "1.25 pounds boneless skinless chicken thighs",
+              "quantity": "1.25",
+              "unit": "pounds",
+              "item": "boneless skinless chicken thighs"
+            },
+            {
+              "raw": "¾ cup cherry tomatoes",
+              "quantity": null,
+              "unit": null,
+              "item": "¾ cup cherry tomatoes"
+            },
+            {
+              "raw": "½ cup pitted kalamata olives",
+              "quantity": null,
+              "unit": null,
+              "item": "½ cup pitted kalamata olives"
+            },
+            {
+              "raw": "2 ounces feta cheese, crumbled",
+              "quantity": "2",
+              "unit": "ounces",
+              "item": "feta cheese, crumbled"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Line a rimmed baking sheet with parchment paper.",
+        "In a small bowl, stir together the olive oil, lemon zest, garlic, oregano, salt and pepper.",
+        "Put the mushrooms, zucchini, bell peppers and red onion in a large mixing bowl. Spoon half of the olive oil/seasoning mixture over the veggies and toss to coat.",
+        "Place the chicken thighs on the baking sheet. Spoon the remaining seasoning mixture over the chicken. Add the vegetables to the pan around the chicken.",
+        "Bake for 20 minutes. Remove the pan from the oven and stir the vegetables a bit. Scatter the whole cherry tomatoes, kalamata olives and feta around the baking sheet and bake for 5–10 minutes more, until the chicken is cooked through to at least 165°F. Serve."
+      ],
+      "notes": [
+        "380 calories per serving. Author: Kristine Rosenblatt.",
+        "Serve as is, or with rice, pasta, or pita bread and hummus.",
+        "**Add potatoes:** use baby, red, or gold potatoes cut into 1-inch pieces.",
+        "**Boneless skinless chicken breasts:** same method and cook times, cooking just until 165°F in the center. Exact time depends on thickness.",
+        "**Bone-in chicken thighs:** add about 10 minutes to the initial cook time.",
+        "**Other vegetables:** yellow squash, asparagus, broccoli, green beans, or artichoke hearts (add during the last 5–10 minutes).",
+        "**Fresh herbs:** sprinkle chopped fresh parsley, dill, oregano, or thyme right before serving.",
+        "Not spicy — works for Danielle. For Clara, the olives and feta are scattered on at the end, so a portion can be pulled before that step."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
         "possible_gluten_ingredients": []
       }
     },
