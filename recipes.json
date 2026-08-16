@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:51:45.763778+00:00",
-  "recipe_count": 113,
+  "generated_at": "2026-08-16T04:28:10.084180+00:00",
+  "recipe_count": 115,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -4139,6 +4139,116 @@
           "Pasta",
           "pasta"
         ]
+      }
+    },
+    {
+      "id": "mains--crock-pot-gluten-free-mac-and-cheese",
+      "title": "Crock Pot Gluten Free Mac and Cheese",
+      "category": "Mains",
+      "file": "Mains/Crock Pot Gluten Free Mac and Cheese.md",
+      "source": {
+        "text": "Fearless Dining",
+        "url": "https://www.fearlessdining.com/crock-pot-gluten-free-mac-and-cheese/"
+      },
+      "servings": "8",
+      "time": {
+        "prep": "10 min",
+        "cook": "2 hr",
+        "total": "2 hr 10 min"
+      },
+      "oven": null,
+      "diet": "Gluten-free",
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "12 ounces gluten free macaroni (see notes)",
+              "quantity": "12",
+              "unit": "ounces",
+              "item": "gluten free macaroni (see notes)"
+            },
+            {
+              "raw": "8 ounces cream cheese, full-fat",
+              "quantity": "8",
+              "unit": "ounces",
+              "item": "cream cheese, full-fat"
+            },
+            {
+              "raw": "8 ounces cheddar cheese (see notes)",
+              "quantity": "8",
+              "unit": "ounces",
+              "item": "cheddar cheese (see notes)"
+            },
+            {
+              "raw": "4 tablespoons salted butter",
+              "quantity": "4",
+              "unit": "tablespoons",
+              "item": "salted butter"
+            },
+            {
+              "raw": "12 ounces evaporated milk",
+              "quantity": "12",
+              "unit": "ounces",
+              "item": "evaporated milk"
+            },
+            {
+              "raw": "¼ cup heavy cream",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "heavy cream"
+            },
+            {
+              "raw": "2 cups milk",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "milk"
+            },
+            {
+              "raw": "1 teaspoon garlic powder",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "1 teaspoon salt, or to taste",
+              "quantity": "1",
+              "unit": "teaspoon",
+              "item": "salt, or to taste"
+            },
+            {
+              "raw": "½ teaspoon ground black pepper",
+              "quantity": "½",
+              "unit": "teaspoon",
+              "item": "ground black pepper"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Spray your slow cooker with a non-stick spray, or use a slow cooker liner. This makes clean up easier.",
+        "Add the butter, cream cheese, evaporated milk, milk, heavy cream, garlic powder, salt, and pepper to the Crock Pot.",
+        "Add the uncooked macaroni. (You do not have to rinse or pre-cook it.) Stir.",
+        "Cover the slow cooker and turn it on low heat.",
+        "After 30 minutes, remove the lid and stir the contents. This is important to prevent the macaroni from sticking together as it cooks. Stir again at the one hour mark.",
+        "After 1½ hours, add the cheddar cheese and any mix-ins. Stir the shredded cheese into the pasta.",
+        "After 30 more minutes, remove the lid and stir again. Taste a piece of pasta — it should be al dente at this point. If it is, it's ready."
+      ],
+      "notes": [
+        "533 calories per serving. Author: Sandi Gaertner. Made in an 8-quart Crock Pot.",
+        "Jovial and Tinkyada gluten free macaroni held up best to slow cooking; other brands may go mushy.",
+        "Cook on **low** — the high setting overcooks the pasta. Stir at least 3 times during cooking.",
+        "Don't add the shredded cheese at the start. Because of the anti-caking coating on pre-shredded cheese, adding it near the end keeps the sauce creamy — and means store-bought shredded cheese is fine to use.",
+        "Use all cheddar, or a 50-50 cheddar and Monterey Jack.",
+        "Free from gluten, eggs, soy, oats, and nuts. Not tested with any dairy-free substitutions.",
+        "**Variations:** ½ cup cooked chopped bacon; 2–4 oz roasted green chiles for heat; leftover rotisserie chicken or ham; broccoli, red peppers, or onions (cook them in a pan first and add with the cheese so they don't go mushy); Parmesan to garnish.",
+        "Keeps up to 4 days in an airtight container in the fridge. Don't freeze — the pasta turns to mush on thawing.",
+        "The green chiles are the easy way to make Mike's portion spicy without touching the rest of the pot."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
       }
     },
     {
@@ -8345,6 +8455,105 @@
         "possible_gluten_ingredients": [
           "bread crumbs"
         ]
+      }
+    },
+    {
+      "id": "sides--creamy-cucumber-salad",
+      "title": "Creamy Cucumber Salad",
+      "category": "Sides",
+      "file": "Sides/Creamy Cucumber Salad.md",
+      "source": {
+        "text": "Spend With Pennies",
+        "url": "https://www.spendwithpennies.com/creamy-cucumber-salad/"
+      },
+      "servings": "8",
+      "time": {
+        "prep": "10 min",
+        "cook": "10 min",
+        "total": "1 hr 20 min"
+      },
+      "oven": null,
+      "diet": "Vegetarian",
+      "cuisine": "American",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "2 English cucumbers",
+              "quantity": "2",
+              "unit": null,
+              "item": "English cucumbers"
+            },
+            {
+              "raw": "⅓ cup sliced white onion (optional)",
+              "quantity": "⅓",
+              "unit": "cup",
+              "item": "sliced white onion (optional)"
+            }
+          ]
+        },
+        {
+          "group": "For the dressing",
+          "items": [
+            {
+              "raw": "½ cup sour cream (or plain Greek yogurt)",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "sour cream (or plain Greek yogurt)"
+            },
+            {
+              "raw": "3 tablespoons mayonnaise",
+              "quantity": "3",
+              "unit": "tablespoons",
+              "item": "mayonnaise"
+            },
+            {
+              "raw": "¼ cup chopped fresh dill",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "chopped fresh dill"
+            },
+            {
+              "raw": "3 tablespoons white vinegar",
+              "quantity": "3",
+              "unit": "tablespoons",
+              "item": "white vinegar"
+            },
+            {
+              "raw": "½ teaspoon granulated sugar",
+              "quantity": "½",
+              "unit": "teaspoon",
+              "item": "granulated sugar"
+            },
+            {
+              "raw": "Salt, to taste",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt, to taste"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Wash the cucumber and cut it into slices ¼-inch thick.",
+        "In a large bowl, whisk the sour cream, mayonnaise, dill, vinegar, sugar and ⅛ teaspoon salt.",
+        "Add the cucumbers and onions if using, and gently toss well to coat.",
+        "Refrigerate for 1 hour before serving.",
+        "Taste and season with additional salt and pepper, and sprinkle with additional fresh dill if desired."
+      ],
+      "notes": [
+        "77 calories per serving. Author: Holly Nilsson.",
+        "Use long English or Persian cucumbers — thinner skins, no peeling needed. If using field cucumbers, peel them and scrape out the seeds with a spoon.",
+        "Slicing the onion thin and soaking it in cold water while you prep takes some of the bite off.",
+        "Additional fresh herbs like basil and parsley can be added.",
+        "Best made 4–5 hours ahead at most, so the cucumbers stay crisp. To make further ahead, store the sliced cucumbers and the dressing separately and combine an hour before serving.",
+        "Keeps 2–3 days in the fridge. Drain any juices and stir before serving; add a little extra sour cream if needed.",
+        "Not spicy, and no substitutions needed for Danielle."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
       }
     },
     {
