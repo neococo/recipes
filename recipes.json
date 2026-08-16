@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:59:31.088517+00:00",
+  "generated_at": "2026-08-16T03:51:45.763778+00:00",
   "recipe_count": 113,
   "categories": [
     "Baking & Bread",
@@ -4727,15 +4727,15 @@
             },
             {
               "raw": "½ teaspoon salt",
-              "quantity": null,
-              "unit": null,
-              "item": "½ teaspoon salt"
+              "quantity": "½",
+              "unit": "teaspoon",
+              "item": "salt"
             },
             {
               "raw": "¼ teaspoon black pepper",
-              "quantity": null,
-              "unit": null,
-              "item": "¼ teaspoon black pepper"
+              "quantity": "¼",
+              "unit": "teaspoon",
+              "item": "black pepper"
             }
           ]
         },
@@ -4780,15 +4780,15 @@
             },
             {
               "raw": "¾ cup cherry tomatoes",
-              "quantity": null,
-              "unit": null,
-              "item": "¾ cup cherry tomatoes"
+              "quantity": "¾",
+              "unit": "cup",
+              "item": "cherry tomatoes"
             },
             {
               "raw": "½ cup pitted kalamata olives",
-              "quantity": null,
-              "unit": null,
-              "item": "½ cup pitted kalamata olives"
+              "quantity": "½",
+              "unit": "cup",
+              "item": "pitted kalamata olives"
             },
             {
               "raw": "2 ounces feta cheese, crumbled",
