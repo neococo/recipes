@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-08-24T00:46:12.969000+00:00",
+  "generated_at": "2026-08-24T03:24:58.776387+00:00",
   "recipe_count": 118,
   "categories": [
     "Baking & Bread",
     "Breakfast",
     "Desserts",
-    "Incomplete - Needs Review",
     "Mains",
     "Sauces & Condiments",
     "Sides",
@@ -2954,50 +2953,6 @@
       }
     },
     {
-      "id": "incomplete-needs-review--dirty-cabbage",
-      "title": "Dirty Cabbage",
-      "category": "Incomplete - Needs Review",
-      "file": "Incomplete - Needs Review/Dirty Cabbage.md",
-      "source": {
-        "text": "YouTube Short — \"Dirty Cabbage\" (#oldscoolkevmo, #sororitychef)",
-        "url": "https://www.youtube.com/shorts/Sf-raaip6_0"
-      },
-      "servings": null,
-      "time": {
-        "prep": null,
-        "cook": null,
-        "total": null
-      },
-      "oven": null,
-      "diet": null,
-      "cuisine": null,
-      "ingredient_groups": [
-        {
-          "group": null,
-          "items": [
-            {
-              "raw": "Not recovered — see notes.",
-              "quantity": null,
-              "unit": null,
-              "item": "Not recovered — see notes."
-            }
-          ]
-        }
-      ],
-      "instructions": [
-        "Not recovered — see notes."
-      ],
-      "notes": [
-        "**What's missing:** the entire ingredient list and method. The source is a YouTube Short with no usable text description, and the page is JavaScript-rendered, so no transcript or caption text could be extracted. Browser tools were unavailable during this run.",
-        "**What is known:** only the title, \"Dirty Cabbage,\" and the creator hashtags (#oldscoolkevmo, #sororitychef). Nothing about quantities or technique was actually read from this video, so nothing has been filled in.",
-        "Dirty Cabbage is a viral dish and many creators have their own versions, so a generic version would likely not match the one Mike bookmarked. Reprocess this source once the video's own content can be read, then move the finished recipe to `Mains/`."
-      ],
-      "dietary_flags": {
-        "gluten_free_stated": false,
-        "possible_gluten_ingredients": []
-      }
-    },
-    {
       "id": "mains--avocado-mac-and-cheese",
       "title": "Avocado Mac and Cheese",
       "category": "Mains",
@@ -4838,6 +4793,138 @@
         "About 30 minutes before serving, top with the shredded cheese."
       ],
       "notes": [],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--dirty-cabbage",
+      "title": "Dirty Cabbage",
+      "category": "Mains",
+      "file": "Mains/Dirty Cabbage.md",
+      "source": {
+        "text": "YouTube Short — \"Dirty Cabbage\" (#oldscoolkevmo, #sororitychef), transcribed by Mike",
+        "url": "https://www.youtube.com/shorts/Sf-raaip6_0"
+      },
+      "servings": null,
+      "time": {
+        "prep": null,
+        "cook": null,
+        "total": null
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Cajun/Creole",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 head cabbage, quartered, cored, and sliced",
+              "quantity": "1",
+              "unit": "head",
+              "item": "cabbage, quartered, cored, and sliced"
+            },
+            {
+              "raw": "2 cups holy trinity: bell peppers, onion, celery",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "holy trinity: bell peppers, onion, celery"
+            },
+            {
+              "raw": "1 andouille sausage",
+              "quantity": "1",
+              "unit": null,
+              "item": "andouille sausage"
+            },
+            {
+              "raw": "½ lb ground beef",
+              "quantity": "½",
+              "unit": "lb",
+              "item": "ground beef"
+            },
+            {
+              "raw": "½ lb spicy sausage",
+              "quantity": "½",
+              "unit": "lb",
+              "item": "spicy sausage"
+            },
+            {
+              "raw": "Beef broth",
+              "quantity": null,
+              "unit": null,
+              "item": "Beef broth"
+            },
+            {
+              "raw": "Oil, for the pan",
+              "quantity": null,
+              "unit": null,
+              "item": "Oil, for the pan"
+            }
+          ]
+        },
+        {
+          "group": "Seasonings",
+          "items": [
+            {
+              "raw": "Salt and pepper",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt and pepper"
+            },
+            {
+              "raw": "Onion powder and garlic powder",
+              "quantity": null,
+              "unit": null,
+              "item": "Onion powder and garlic powder"
+            },
+            {
+              "raw": "Paprika",
+              "quantity": null,
+              "unit": null,
+              "item": "Paprika"
+            },
+            {
+              "raw": "Pureed garlic",
+              "quantity": null,
+              "unit": null,
+              "item": "Pureed garlic"
+            },
+            {
+              "raw": "Italian seasoning",
+              "quantity": null,
+              "unit": null,
+              "item": "Italian seasoning"
+            },
+            {
+              "raw": "Creole seasoning",
+              "quantity": null,
+              "unit": null,
+              "item": "Creole seasoning"
+            },
+            {
+              "raw": "Worcestershire sauce, a few shakes",
+              "quantity": null,
+              "unit": null,
+              "item": "Worcestershire sauce, a few shakes"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Heat oil in the pan and sauté the andouille. Remove and reserve in another bowl.",
+        "Brown the spicy sausage and ground beef in the same pan.",
+        "Add the holy trinity (bell peppers, onion, celery).",
+        "Season with salt, pepper, onion and garlic powder, paprika, pureed garlic, Italian seasoning, Creole seasoning, and a few shakes of Worcestershire sauce.",
+        "Cook a little, then add some beef broth.",
+        "Add the cabbage and return the reserved andouille to the pan.",
+        "Cover with the lid and cook until the cabbage wilts. It's ready."
+      ],
+      "notes": [
+        "Transcribed by ear from the video, so quantities for the beef broth and the seasonings aren't specified — season to taste and add just enough broth to steam the cabbage.",
+        "Household note: this is a spicy one (spicy sausage plus Creole seasoning). Going lighter on the Creole seasoning, or using a mild smoked sausage in place of the spicy one, would bring it into range for Danielle and Clara."
+      ],
       "dietary_flags": {
         "gluten_free_stated": false,
         "possible_gluten_ingredients": []
