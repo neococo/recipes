@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-16T04:28:10.084180+00:00",
-  "recipe_count": 115,
+  "generated_at": "2026-08-24T00:46:12.969000+00:00",
+  "recipe_count": 118,
   "categories": [
     "Baking & Bread",
     "Breakfast",
     "Desserts",
+    "Incomplete - Needs Review",
     "Mains",
     "Sauces & Condiments",
     "Sides",
@@ -2953,6 +2954,50 @@
       }
     },
     {
+      "id": "incomplete-needs-review--dirty-cabbage",
+      "title": "Dirty Cabbage",
+      "category": "Incomplete - Needs Review",
+      "file": "Incomplete - Needs Review/Dirty Cabbage.md",
+      "source": {
+        "text": "YouTube Short — \"Dirty Cabbage\" (#oldscoolkevmo, #sororitychef)",
+        "url": "https://www.youtube.com/shorts/Sf-raaip6_0"
+      },
+      "servings": null,
+      "time": {
+        "prep": null,
+        "cook": null,
+        "total": null
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "Not recovered — see notes.",
+              "quantity": null,
+              "unit": null,
+              "item": "Not recovered — see notes."
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Not recovered — see notes."
+      ],
+      "notes": [
+        "**What's missing:** the entire ingredient list and method. The source is a YouTube Short with no usable text description, and the page is JavaScript-rendered, so no transcript or caption text could be extracted. Browser tools were unavailable during this run.",
+        "**What is known:** only the title, \"Dirty Cabbage,\" and the creator hashtags (#oldscoolkevmo, #sororitychef). Nothing about quantities or technique was actually read from this video, so nothing has been filled in.",
+        "Dirty Cabbage is a viral dish and many creators have their own versions, so a generic version would likely not match the one Mike bookmarked. Reprocess this source once the video's own content can be read, then move the finished recipe to `Mains/`."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "mains--avocado-mac-and-cheese",
       "title": "Avocado Mac and Cheese",
       "category": "Mains",
@@ -3550,6 +3595,357 @@
         "gluten_free_stated": false,
         "possible_gluten_ingredients": [
           "corn tortillas"
+        ]
+      }
+    },
+    {
+      "id": "mains--cheesy-beef-taco-potato-bowls",
+      "title": "Cheesy Beef Taco Potato Bowls",
+      "category": "Mains",
+      "file": "Mains/Cheesy Beef Taco Potato Bowls.md",
+      "source": {
+        "text": "Samsung Food (Erica A; originally an Instagram reel)",
+        "url": "https://app.samsungfood.com/recipes/107018d80320ed7748a85880cce545ecdf6"
+      },
+      "servings": "4",
+      "time": {
+        "prep": null,
+        "cook": null,
+        "total": null
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Mexican-inspired",
+      "ingredient_groups": [
+        {
+          "group": "Taco seasoning mix",
+          "items": [
+            {
+              "raw": "1 tsp salt",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "salt"
+            },
+            {
+              "raw": "1 tsp black pepper",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "black pepper"
+            },
+            {
+              "raw": "1 tsp onion powder",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "onion powder"
+            },
+            {
+              "raw": "1 tsp garlic powder",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "1 tsp cumin",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "cumin"
+            },
+            {
+              "raw": "1 tsp paprika",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "paprika"
+            },
+            {
+              "raw": "1 tsp chilli powder",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "chilli powder"
+            },
+            {
+              "raw": "1 tsp oregano",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "oregano"
+            }
+          ]
+        },
+        {
+          "group": "Potatoes",
+          "items": [
+            {
+              "raw": "800 g raw cubed potatoes",
+              "quantity": "800",
+              "unit": "g",
+              "item": "raw cubed potatoes"
+            },
+            {
+              "raw": "Taco seasoning mix",
+              "quantity": null,
+              "unit": null,
+              "item": "Taco seasoning mix"
+            },
+            {
+              "raw": "2 tsp olive oil",
+              "quantity": "2",
+              "unit": "tsp",
+              "item": "olive oil"
+            }
+          ]
+        },
+        {
+          "group": "Chipotle spicy sauce",
+          "items": [
+            {
+              "raw": "100 g fat-free yogurt",
+              "quantity": "100",
+              "unit": "g",
+              "item": "fat-free yogurt"
+            },
+            {
+              "raw": "80 g light mayo",
+              "quantity": "80",
+              "unit": "g",
+              "item": "light mayo"
+            },
+            {
+              "raw": "50 g chipotle chilli paste",
+              "quantity": "50",
+              "unit": "g",
+              "item": "chipotle chilli paste"
+            },
+            {
+              "raw": "20 g hot sauce",
+              "quantity": "20",
+              "unit": "g",
+              "item": "hot sauce"
+            },
+            {
+              "raw": "20 g honey",
+              "quantity": "20",
+              "unit": "g",
+              "item": "honey"
+            },
+            {
+              "raw": "Salt, paprika, garlic powder",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt, paprika, garlic powder"
+            }
+          ]
+        },
+        {
+          "group": "Pico de gallo",
+          "items": [
+            {
+              "raw": "2 large tomatoes, chopped",
+              "quantity": "2",
+              "unit": null,
+              "item": "large tomatoes, chopped"
+            },
+            {
+              "raw": "1 large red onion, chopped",
+              "quantity": "1",
+              "unit": null,
+              "item": "large red onion, chopped"
+            },
+            {
+              "raw": "½ red and green bell peppers, chopped",
+              "quantity": "½",
+              "unit": null,
+              "item": "red and green bell peppers, chopped"
+            },
+            {
+              "raw": "Big handful coriander (cilantro), chopped",
+              "quantity": null,
+              "unit": null,
+              "item": "Big handful coriander (cilantro), chopped"
+            },
+            {
+              "raw": "Salt, pepper, garlic, cumin, paprika",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt, pepper, garlic, cumin, paprika"
+            },
+            {
+              "raw": "Juice of 1 whole lime",
+              "quantity": null,
+              "unit": null,
+              "item": "Juice of 1 whole lime"
+            }
+          ]
+        },
+        {
+          "group": "Taco beef",
+          "items": [
+            {
+              "raw": "800 g lean minced beef (topside)",
+              "quantity": "800",
+              "unit": "g",
+              "item": "lean minced beef (topside)"
+            },
+            {
+              "raw": "20 g tomato paste",
+              "quantity": "20",
+              "unit": "g",
+              "item": "tomato paste"
+            },
+            {
+              "raw": "Taco seasoning mix",
+              "quantity": null,
+              "unit": null,
+              "item": "Taco seasoning mix"
+            },
+            {
+              "raw": "Grated mozzarella or other low-fat cheese",
+              "quantity": null,
+              "unit": null,
+              "item": "Grated mozzarella or other low-fat cheese"
+            },
+            {
+              "raw": "15 g butter, for cooking",
+              "quantity": "15",
+              "unit": "g",
+              "item": "butter, for cooking"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Season the potatoes thoroughly and mix until well coated, then cook — take care not to overcook them.",
+        "Cook the beef until browned, then add the remaining beef-mixture ingredients. Add a little water for moisture if it is too dry.",
+        "Assemble the bowls with potatoes, taco beef, cheese, pico de gallo, and chipotle sauce."
+      ],
+      "notes": [
+        "The original recipe is written loosely; potato and beef cooking times/temperatures are not specified in the source.",
+        "Make the chipotle sauce in advance and store it in the fridge — it works on other meals too.",
+        "Batch the pico de gallo into containers as well.",
+        "For meal prep, reheat only the potatoes and beef; store the salsa separately.",
+        "Macros per serving (4 total): 522 calories, 54g protein, 42g carbs, 14g fat.",
+        "Household note: the chipotle sauce carries most of the heat, so it can be served on the side for Danielle and Clara."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--chicken-bacon-ranch-pasta-salad",
+      "title": "Chicken Bacon Ranch Pasta Salad",
+      "category": "Mains",
+      "file": "Mains/Chicken Bacon Ranch Pasta Salad.md",
+      "source": {
+        "text": "Meatloaf and Melodrama (Dee)",
+        "url": "https://www.meatloafandmelodrama.com/chicken-bacon-ranch-pasta-salad/"
+      },
+      "servings": "14",
+      "time": {
+        "prep": "20 min",
+        "cook": "4 min",
+        "total": "24 min"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "American",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "16 oz cooked rotini pasta (or 12 oz if tri-colored)",
+              "quantity": "16",
+              "unit": "oz",
+              "item": "cooked rotini pasta (or 12 oz if tri-colored)"
+            },
+            {
+              "raw": "2 cups cooked chicken breast (about 2 breasts), diced",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "cooked chicken breast (about 2 breasts), diced"
+            },
+            {
+              "raw": "1 cup grape tomatoes, cut in half",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "grape tomatoes, cut in half"
+            },
+            {
+              "raw": "1 English cucumber or celery stalk, chopped",
+              "quantity": "1",
+              "unit": null,
+              "item": "English cucumber or celery stalk, chopped"
+            },
+            {
+              "raw": "¼ cup chopped parsley",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "chopped parsley"
+            },
+            {
+              "raw": "½ tsp sea salt",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "sea salt"
+            },
+            {
+              "raw": "½ tsp ground black pepper",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "ground black pepper"
+            },
+            {
+              "raw": "½ tsp onion powder",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "onion powder"
+            },
+            {
+              "raw": "½ tsp garlic powder",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "1½ cups ranch dressing",
+              "quantity": "1½",
+              "unit": "cups",
+              "item": "ranch dressing"
+            },
+            {
+              "raw": "1 cup sliced cheddar cheese or American cheese",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "sliced cheddar cheese or American cheese"
+            },
+            {
+              "raw": "6 strips cooked bacon, chopped",
+              "quantity": "6",
+              "unit": "strips",
+              "item": "cooked bacon, chopped"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Cook pasta according to directions on the box, or cook in an Instant Pot. Drain in a colander and rinse under cold water.",
+        "Add pasta, chicken, salt, pepper, garlic and onion powder, tomatoes, celery, and parsley to a large mixing bowl.",
+        "Pour in the dressing and cheese and about half of the bacon. Mix well. Top with remaining bacon and more parsley, if desired.",
+        "Cover and refrigerate until ready to serve. Add more dressing before serving if needed."
+      ],
+      "notes": [
+        "Use enough ranch dressing to make the salad creamy — you may need more or less than called for depending on the consistency of the ranch.",
+        "Add chopped red onions instead of cucumber or celery, if desired. Use your favorite cheese or omit it.",
+        "Rotisserie chicken or leftover chicken works well here. Penne or any tubular pasta can stand in for rotini.",
+        "Chill about an hour before serving to let the flavors blend. Can be made a day ahead — stir in extra ranch before serving, as the pasta absorbs it, and hold back some bacon so it stays crunchy.",
+        "Store in an airtight container in the refrigerator; leftovers keep 3–4 days. Not recommended for freezing.",
+        "Recipe makes a lot and halves easily.",
+        "Per serving: 313 calories, 27g carbs, 13g protein, 17g fat, 466mg sodium."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": [
+          "Pasta",
+          "pasta"
         ]
       }
     },
