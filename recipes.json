@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:24:58.776387+00:00",
-  "recipe_count": 118,
+  "generated_at": "2026-10-03T23:15:32.243075+00:00",
+  "recipe_count": 125,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -2953,6 +2953,78 @@
       }
     },
     {
+      "id": "mains--apple-bbq-pork-tenderloin",
+      "title": "Apple BBQ Pork Tenderloin",
+      "category": "Mains",
+      "file": "Mains/Apple BBQ Pork Tenderloin.md",
+      "source": {
+        "text": "Mommy's Fabulous Finds",
+        "url": "https://www.mommysfabulousfinds.com/easy-crock-pot-freezer-meals-2/"
+      },
+      "servings": "—",
+      "time": {
+        "prep": "~5 min",
+        "cook": "6–8 hr low or 3–4 hr high",
+        "total": "—"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1–2 lb pork tenderloin",
+              "quantity": "1–2",
+              "unit": "lb",
+              "item": "pork tenderloin"
+            },
+            {
+              "raw": "1 cup chunky applesauce",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "chunky applesauce"
+            },
+            {
+              "raw": "1 cup BBQ sauce",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "BBQ sauce"
+            },
+            {
+              "raw": "2 tbsp minced dried onion",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "minced dried onion"
+            },
+            {
+              "raw": "Rice or pasta, for serving",
+              "quantity": null,
+              "unit": null,
+              "item": "Rice or pasta, for serving"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Place the pork tenderloin in a gallon-sized freezer bag.",
+        "In a medium bowl, mix together the applesauce, BBQ sauce, and onion; add to the bag. Zip closed and freeze.",
+        "When ready to use, thaw in the fridge overnight.",
+        "Empty the contents into the crock pot and cook on low 6–8 hours or high 3–4 hours.",
+        "Serve over rice or pasta."
+      ],
+      "notes": [
+        "Crock pot freezer meal."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": [
+          "pasta"
+        ]
+      }
+    },
+    {
       "id": "mains--avocado-mac-and-cheese",
       "title": "Avocado Mac and Cheese",
       "category": "Mains",
@@ -4287,6 +4359,154 @@
       }
     },
     {
+      "id": "mains--creamy-spinach-artichoke-butter-beans",
+      "title": "Creamy Spinach Artichoke Butter Beans",
+      "category": "Mains",
+      "file": "Mains/Creamy Spinach Artichoke Butter Beans.md",
+      "source": {
+        "text": "Avocado Skillet",
+        "url": "https://avocadoskillet.com/"
+      },
+      "servings": "4",
+      "time": {
+        "prep": "5 min",
+        "cook": "15 min",
+        "total": "20 min"
+      },
+      "oven": null,
+      "diet": "Vegetarian",
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 tablespoon butter (can sub oil, but butter adds more flavor)",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "butter (can sub oil, but butter adds more flavor)"
+            },
+            {
+              "raw": "3–6 cloves garlic (adjust to preference)",
+              "quantity": "3–6",
+              "unit": "cloves",
+              "item": "garlic (adjust to preference)"
+            },
+            {
+              "raw": "½ onion, finely chopped",
+              "quantity": "½",
+              "unit": null,
+              "item": "onion, finely chopped"
+            },
+            {
+              "raw": "3 cans cannellini beans, drained",
+              "quantity": "3",
+              "unit": "cans",
+              "item": "cannellini beans, drained"
+            },
+            {
+              "raw": "1¼ cups vegetable or chicken broth (chicken bone broth for more protein)",
+              "quantity": "1¼",
+              "unit": "cups",
+              "item": "vegetable or chicken broth (chicken bone broth for more protein)"
+            },
+            {
+              "raw": "1 cup grated parmesan",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "grated parmesan"
+            },
+            {
+              "raw": "¼ cup fresh chopped basil",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "fresh chopped basil"
+            },
+            {
+              "raw": "Pinch salt",
+              "quantity": null,
+              "unit": null,
+              "item": "Pinch salt"
+            },
+            {
+              "raw": "Pinch black pepper",
+              "quantity": null,
+              "unit": null,
+              "item": "Pinch black pepper"
+            },
+            {
+              "raw": "1 (~10 oz) jar artichokes, drained and chopped",
+              "quantity": "1",
+              "unit": null,
+              "item": "(~10 oz) jar artichokes, drained and chopped"
+            },
+            {
+              "raw": "3 cups roughly chopped spinach (about 2 big handfuls)",
+              "quantity": "3",
+              "unit": "cups",
+              "item": "roughly chopped spinach (about 2 big handfuls)"
+            },
+            {
+              "raw": "Juice from ½ lemon",
+              "quantity": null,
+              "unit": null,
+              "item": "Juice from ½ lemon"
+            }
+          ]
+        },
+        {
+          "group": "Optional toppings and sides",
+          "items": [
+            {
+              "raw": "Additional grated parmesan",
+              "quantity": null,
+              "unit": null,
+              "item": "Additional grated parmesan"
+            },
+            {
+              "raw": "Pinch red pepper flakes",
+              "quantity": null,
+              "unit": null,
+              "item": "Pinch red pepper flakes"
+            },
+            {
+              "raw": "Drizzle of olive oil",
+              "quantity": null,
+              "unit": null,
+              "item": "Drizzle of olive oil"
+            },
+            {
+              "raw": "Additional fresh chopped basil",
+              "quantity": null,
+              "unit": null,
+              "item": "Additional fresh chopped basil"
+            },
+            {
+              "raw": "Toasty sourdough",
+              "quantity": null,
+              "unit": null,
+              "item": "Toasty sourdough"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Add butter to a deep skillet over medium heat. Add onion and garlic and cook 8–10 minutes, until softened.",
+        "Add all other ingredients except the spinach and stir to combine. Partially mash about ¼ of the beans with a potato masher.",
+        "Bring to a simmer, being careful not to boil. Simmer 10–15 minutes.",
+        "Turn heat to low and fold in the spinach, stirring until wilted. Squeeze in the lemon, stir again, and turn off the heat.",
+        "Divide out, add favorite toppings, and serve with toasty bread."
+      ],
+      "notes": [
+        "About 608 kcal per serving (¼ of recipe), per the source.",
+        "Good with a slice of the GF sourdough."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "mains--crock-pot-beef-stroganoff",
       "title": "Crock-Pot Beef Stroganoff",
       "category": "Mains",
@@ -5175,6 +5395,139 @@
       }
     },
     {
+      "id": "mains--garlic-parmesan-beans",
+      "title": "Garlic Parmesan Beans",
+      "category": "Mains",
+      "file": "Mains/Garlic Parmesan Beans.md",
+      "source": {
+        "text": "Avocado Skillet",
+        "url": "https://avocadoskillet.com/"
+      },
+      "servings": "4",
+      "time": {
+        "prep": "7 min",
+        "cook": "20 min",
+        "total": "27 min"
+      },
+      "oven": null,
+      "diet": "Vegetarian (with vegetable broth)",
+      "cuisine": "American / Italian",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 tablespoon olive oil",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "olive oil"
+            },
+            {
+              "raw": "1 bunch scallions, finely chopped",
+              "quantity": "1",
+              "unit": "bunch",
+              "item": "scallions, finely chopped"
+            },
+            {
+              "raw": "3 (15 oz) cans cannellini beans, drained",
+              "quantity": "3",
+              "unit": null,
+              "item": "(15 oz) cans cannellini beans, drained"
+            },
+            {
+              "raw": "6–10 cloves garlic, finely chopped (adjust to preference)",
+              "quantity": "6–10",
+              "unit": "cloves",
+              "item": "garlic, finely chopped (adjust to preference)"
+            },
+            {
+              "raw": "¼–½ teaspoon salt",
+              "quantity": "¼",
+              "unit": null,
+              "item": "–½ teaspoon salt"
+            },
+            {
+              "raw": "¼ teaspoon ground black pepper",
+              "quantity": "¼",
+              "unit": "teaspoon",
+              "item": "ground black pepper"
+            },
+            {
+              "raw": "3 tablespoons fresh chopped parsley (or herb of choice)",
+              "quantity": "3",
+              "unit": "tablespoons",
+              "item": "fresh chopped parsley (or herb of choice)"
+            },
+            {
+              "raw": "½ teaspoon smoked paprika (regular works but has less flavor)",
+              "quantity": "½",
+              "unit": "teaspoon",
+              "item": "smoked paprika (regular works but has less flavor)"
+            },
+            {
+              "raw": "1½ cups bone broth (vegetable or regular chicken broth also works)",
+              "quantity": "1½",
+              "unit": "cups",
+              "item": "bone broth (vegetable or regular chicken broth also works)"
+            },
+            {
+              "raw": "¾ cup grated parmesan",
+              "quantity": "¾",
+              "unit": "cup",
+              "item": "grated parmesan"
+            },
+            {
+              "raw": "Juice from ¼–½ lemon (adjust to taste)",
+              "quantity": null,
+              "unit": null,
+              "item": "Juice from ¼–½ lemon (adjust to taste)"
+            },
+            {
+              "raw": "2 cups finely chopped Swiss chard (or green of choice)",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "finely chopped Swiss chard (or green of choice)"
+            }
+          ]
+        },
+        {
+          "group": "Optional toppings and sides",
+          "items": [
+            {
+              "raw": "Toasty bread",
+              "quantity": null,
+              "unit": null,
+              "item": "Toasty bread"
+            },
+            {
+              "raw": "Red pepper flakes",
+              "quantity": null,
+              "unit": null,
+              "item": "Red pepper flakes"
+            },
+            {
+              "raw": "Additional grated parmesan",
+              "quantity": null,
+              "unit": null,
+              "item": "Additional grated parmesan"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Heat oil in a skillet over medium heat. Add scallions and garlic and cook 5 minutes. Add salt, pepper, and paprika and cook another 3 minutes.",
+        "Add all remaining ingredients except the chard and stir to combine. Partially mash about ¼ of the beans with a potato masher or jar. Bring to a simmer and cook 15 minutes, stirring occasionally and not letting it boil.",
+        "Turn heat to low and fold in the chard. Add toppings, divide out, and serve with toasty bread if using."
+      ],
+      "notes": [
+        "About 512 kcal per serving (¼ of recipe, not including sides), per the source."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "mains--gluten-free-mini-detroit-pizzas",
       "title": "Gluten-Free Mini Detroit Pizzas",
       "category": "Mains",
@@ -5269,6 +5622,101 @@
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--greek-chicken-freezer-meal",
+      "title": "Greek Chicken Freezer Meal",
+      "category": "Mains",
+      "file": "Mains/Greek Chicken Freezer Meal.md",
+      "source": {
+        "text": "The Modern Proper",
+        "url": "https://themodernproper.com/"
+      },
+      "servings": "6",
+      "time": {
+        "prep": "15 min",
+        "cook": "25 min",
+        "total": "40 min (plus overnight thaw)"
+      },
+      "oven": "400°F",
+      "diet": null,
+      "cuisine": "Greek",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "2 tablespoons kosher salt, divided",
+              "quantity": "2",
+              "unit": "tablespoons",
+              "item": "kosher salt, divided"
+            },
+            {
+              "raw": "1½ pounds russet potatoes, peeled and cut into 2-inch pieces",
+              "quantity": "1½",
+              "unit": "pounds",
+              "item": "russet potatoes, peeled and cut into 2-inch pieces"
+            },
+            {
+              "raw": "¼ cup extra-virgin olive oil",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "extra-virgin olive oil"
+            },
+            {
+              "raw": "2 tablespoons fresh lemon juice (from 1 lemon)",
+              "quantity": "2",
+              "unit": "tablespoons",
+              "item": "fresh lemon juice (from 1 lemon)"
+            },
+            {
+              "raw": "1 tablespoon dried oregano",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "dried oregano"
+            },
+            {
+              "raw": "1 tablespoon garlic powder",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "1 tablespoon dried dill",
+              "quantity": "1",
+              "unit": "tablespoon",
+              "item": "dried dill"
+            },
+            {
+              "raw": "2 pounds boneless skinless chicken breast",
+              "quantity": "2",
+              "unit": "pounds",
+              "item": "boneless skinless chicken breast"
+            },
+            {
+              "raw": "Minced fresh flat-leaf parsley (optional)",
+              "quantity": null,
+              "unit": null,
+              "item": "Minced fresh flat-leaf parsley (optional)"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Bring a large stock pot of water to a boil. Add 1 tablespoon of the salt and the potatoes and boil 6 minutes. Drain in a colander and let cool completely.",
+        "Make the marinade: in a small bowl, combine the olive oil, lemon juice, remaining 1 tablespoon salt, oregano, garlic powder, and dill.",
+        "In a large bowl, toss the cooled potatoes with half the marinade and add them to a freezer bag. In the same bowl, toss the chicken with the remaining marinade and add to the bag. Freeze up to 3 months.",
+        "The night before cooking, move the bag from the freezer to the refrigerator to thaw.",
+        "Preheat the oven to 400°F with a rack in the center. Spread the chicken and potatoes on a lightly greased rimmed sheet pan. Bake 20–25 minutes, until the chicken reaches 165°F.",
+        "For extra color, broil 3–5 more minutes. Sprinkle with parsley if using."
+      ],
+      "notes": [
+        "Nice with homemade Tzatziki (Sauces & Condiments)."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
         "possible_gluten_ingredients": []
       }
     },
@@ -5532,6 +5980,110 @@
         "Swap chicken breasts for thighs or another protein; swap Brussels sprouts for another fall veggie; for a vegetarian version, swap the chicken broth for vegetable broth and skip the chicken.",
         "Make sure the rice is cooked before adding — uncooked rice won't cook through in the oven here.",
         "Per serving: 417 calories."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--honey-balsamic-chicken-and-veggies",
+      "title": "Honey Balsamic Chicken and Veggies",
+      "category": "Mains",
+      "file": "Mains/Honey Balsamic Chicken and Veggies.md",
+      "source": {
+        "text": "Jar Of Lemons",
+        "url": "https://www.jaroflemons.com/"
+      },
+      "servings": "6",
+      "time": {
+        "prep": "10 min",
+        "cook": "30 min",
+        "total": "40 min"
+      },
+      "oven": "350°F",
+      "diet": null,
+      "cuisine": "American",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "6 small chicken breasts",
+              "quantity": "6",
+              "unit": null,
+              "item": "small chicken breasts"
+            },
+            {
+              "raw": "⅓ cup balsamic vinegar",
+              "quantity": "⅓",
+              "unit": "cup",
+              "item": "balsamic vinegar"
+            },
+            {
+              "raw": "¼ cup honey",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "honey"
+            },
+            {
+              "raw": "1½ Tbsp Dijon mustard",
+              "quantity": "1½",
+              "unit": "Tbsp",
+              "item": "Dijon mustard"
+            },
+            {
+              "raw": "1 tsp garlic powder",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "½ tsp turmeric (optional)",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "turmeric (optional)"
+            },
+            {
+              "raw": "1 tsp paprika",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "paprika"
+            },
+            {
+              "raw": "Salt and pepper",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt and pepper"
+            },
+            {
+              "raw": "Fresh basil (optional)",
+              "quantity": null,
+              "unit": null,
+              "item": "Fresh basil (optional)"
+            },
+            {
+              "raw": "Veggies of choice",
+              "quantity": null,
+              "unit": null,
+              "item": "Veggies of choice"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients together except the chicken breasts and veggies.",
+        "Place the sauce in a freezer bag and add the chicken breasts.",
+        "Refrigerate overnight (or at least 30 minutes).",
+        "Preheat oven to 350°F. Line a baking sheet with foil or parchment paper.",
+        "Add the chicken breasts to the baking sheet. Cut the veggies and add them to the sheet pan.",
+        "Drizzle the extra sauce over the chicken and veggies.",
+        "Bake about 30 minutes, or until the chicken is fully cooked.",
+        "Serve, pack for lunch the next day, or freeze for later."
+      ],
+      "notes": [
+        "Can be made as a freezer meal (freeze the chicken in the marinade bag).",
+        "When using turmeric, wash dishes right away so they don't stain."
       ],
       "dietary_flags": {
         "gluten_free_stated": false,
@@ -8745,6 +9297,100 @@
       }
     },
     {
+      "id": "sauces-condiments--tzatziki",
+      "title": "Tzatziki",
+      "category": "Sauces & Condiments",
+      "file": "Sauces & Condiments/Tzatziki.md",
+      "source": {
+        "text": "Saved recipe screenshot",
+        "url": null
+      },
+      "servings": "—",
+      "time": {
+        "prep": "~10 min plus 20–30 min resting",
+        "cook": "—",
+        "total": "~40 min"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Greek",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "500 g full-fat Greek yogurt",
+              "quantity": "500",
+              "unit": "g",
+              "item": "full-fat Greek yogurt"
+            },
+            {
+              "raw": "1 English cucumber, peeled",
+              "quantity": "1",
+              "unit": null,
+              "item": "English cucumber, peeled"
+            },
+            {
+              "raw": "1 small garlic clove, smashed",
+              "quantity": "1",
+              "unit": null,
+              "item": "small garlic clove, smashed"
+            },
+            {
+              "raw": "1 tbsp white wine vinegar (for the cucumber)",
+              "quantity": "1",
+              "unit": "tbsp",
+              "item": "white wine vinegar (for the cucumber)"
+            },
+            {
+              "raw": "2 tbsp white wine vinegar (for the yogurt)",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "white wine vinegar (for the yogurt)"
+            },
+            {
+              "raw": "2 tbsp olive oil, plus more for drizzling",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "olive oil, plus more for drizzling"
+            },
+            {
+              "raw": "¼ to ½ bunch fresh dill, finely chopped",
+              "quantity": "¼",
+              "unit": null,
+              "item": "to ½ bunch fresh dill, finely chopped"
+            },
+            {
+              "raw": "Salt and pepper",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt and pepper"
+            },
+            {
+              "raw": "Thyme sprig and an olive, for garnish (optional)",
+              "quantity": null,
+              "unit": null,
+              "item": "Thyme sprig and an olive, for garnish (optional)"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Grate the cucumber. Add salt and 1 tbsp vinegar and let it sit 20 to 30 minutes.",
+        "Squeeze out all the liquid from the cucumber.",
+        "Add the cucumber to the yogurt. Mix in the garlic, remaining 2 tbsp vinegar, olive oil, and dill.",
+        "Season with salt and pepper and chill.",
+        "Serve cold, drizzled with olive oil. Garnish with a sprig of thyme and an olive if you like."
+      ],
+      "notes": [
+        "Pairs well with Greek Chicken Freezer Meal or Greek Sheet Pan Chicken."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "sides--amish-macaroni-salad",
       "title": "Amish Macaroni Salad",
       "category": "Sides",
@@ -10182,6 +10828,102 @@
       "dietary_flags": {
         "gluten_free_stated": false,
         "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "snacks-appetizers--smoked-queso",
+      "title": "Smoked Queso",
+      "category": "Snacks & Appetizers",
+      "file": "Snacks & Appetizers/Smoked Queso.md",
+      "source": {
+        "text": "Family recipe collection",
+        "url": null
+      },
+      "servings": "—",
+      "time": {
+        "prep": "—",
+        "cook": "1–2 hr",
+        "total": "—"
+      },
+      "oven": "250°F (smoker or pellet grill)",
+      "diet": null,
+      "cuisine": "Tex-Mex",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "2 lbs Velveeta / processed cheese, cubed (for an ultra-smooth melting base)",
+              "quantity": "2",
+              "unit": "lbs",
+              "item": "Velveeta / processed cheese, cubed (for an ultra-smooth melting base)"
+            },
+            {
+              "raw": "8 oz real cheese, shredded or cubed — cheddar, pepper jack, or smoked gouda for extra flavor",
+              "quantity": "8",
+              "unit": "oz",
+              "item": "real cheese, shredded or cubed — cheddar, pepper jack, or smoked gouda for extra flavor"
+            },
+            {
+              "raw": "1 lb cooked meat — chorizo, breakfast sausage, or diced smoked brisket",
+              "quantity": "1",
+              "unit": "lb",
+              "item": "cooked meat — chorizo, breakfast sausage, or diced smoked brisket"
+            },
+            {
+              "raw": "1–2 cans (10 oz each) Rotel diced tomatoes and green chilis, drained or undrained depending on preferred thickness",
+              "quantity": "1–2",
+              "unit": "cans",
+              "item": "(10 oz each) Rotel diced tomatoes and green chilis, drained or undrained depending on preferred thickness"
+            },
+            {
+              "raw": "Diced jalapeños, onions, and minced garlic",
+              "quantity": null,
+              "unit": null,
+              "item": "Diced jalapeños, onions, and minced garlic"
+            },
+            {
+              "raw": "½–1 cup milk, heavy cream, or beer, to adjust consistency",
+              "quantity": "½",
+              "unit": null,
+              "item": "–1 cup milk, heavy cream, or beer, to adjust consistency"
+            },
+            {
+              "raw": "2–3 tablespoons favorite southwestern or barbecue rub",
+              "quantity": "2–3",
+              "unit": "tablespoons",
+              "item": "favorite southwestern or barbecue rub"
+            },
+            {
+              "raw": "Fresh cilantro or pico de gallo, for garnish",
+              "quantity": null,
+              "unit": null,
+              "item": "Fresh cilantro or pico de gallo, for garnish"
+            },
+            {
+              "raw": "Sturdy tortilla chips, for serving",
+              "quantity": null,
+              "unit": null,
+              "item": "Sturdy tortilla chips, for serving"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Preheat the smoker or pellet grill to 250°F using a clean-burning hardwood like hickory, pecan, or oak.",
+        "Place all cubed cheeses, meat, Rotel, diced vegetables, seasonings, and half of the liquid into a large disposable aluminum foil pan.",
+        "Set the pan directly on the smoker grate and smoke for 1 to 2 hours.",
+        "Open the smoker every 30 to 45 minutes to stir. If the queso looks too thick or starts to paste up, splash in an extra tablespoon or two of milk or cream.",
+        "Once completely melted and smooth, pull it off the smoker, garnish with fresh cilantro or pico de gallo, and serve hot with tortilla chips."
+      ],
+      "notes": [
+        "Heat comes from the jalapeños, pepper jack, and Rotel — go light (or use mild Rotel) if serving Danielle and Clara."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": [
+          "beer"
+        ]
       }
     },
     {
