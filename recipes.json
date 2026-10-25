@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T23:15:32.243075+00:00",
-  "recipe_count": 125,
+  "generated_at": "2026-10-25T18:19:55.998526+00:00",
+  "recipe_count": 134,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -1686,6 +1686,174 @@
       }
     },
     {
+      "id": "desserts--black-bean-brownies",
+      "title": "Black Bean Brownies",
+      "category": "Desserts",
+      "file": "Desserts/Black Bean Brownies.md",
+      "source": {
+        "text": "Chocolate Covered Katie",
+        "url": "https://chocolatecoveredkatie.com/no-flour-black-bean-brownies/"
+      },
+      "servings": "9–12 brownies",
+      "time": {
+        "prep": "Not specified",
+        "cook": "15–18 min",
+        "total": "Not specified (plus at least 10 min cooling)"
+      },
+      "oven": "350°F",
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1½ cups black beans (one 15-oz can, drained and rinsed very well; 250 g after draining)",
+              "quantity": "1½",
+              "unit": "cups",
+              "item": "black beans (one 15-oz can, drained and rinsed very well; 250 g after draining)"
+            },
+            {
+              "raw": "2 tbsp cocoa powder (10 g)",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "cocoa powder (10 g)"
+            },
+            {
+              "raw": "½ cup quick oats (40 g)",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "quick oats (40 g)"
+            },
+            {
+              "raw": "¼ tsp salt",
+              "quantity": "¼",
+              "unit": "tsp",
+              "item": "salt"
+            },
+            {
+              "raw": "⅓ cup pure maple syrup, honey, or agave (75 g)",
+              "quantity": "⅓",
+              "unit": "cup",
+              "item": "pure maple syrup, honey, or agave (75 g)"
+            },
+            {
+              "raw": "Pinch of uncut stevia OR 2 tbsp sugar (or omit and increase maple syrup to ½ cup)",
+              "quantity": null,
+              "unit": null,
+              "item": "Pinch of uncut stevia OR 2 tbsp sugar (or omit and increase maple syrup to ½ cup)"
+            },
+            {
+              "raw": "¼ cup coconut or vegetable oil (40 g)",
+              "quantity": "¼",
+              "unit": "cup",
+              "item": "coconut or vegetable oil (40 g)"
+            },
+            {
+              "raw": "2 tsp pure vanilla extract",
+              "quantity": "2",
+              "unit": "tsp",
+              "item": "pure vanilla extract"
+            },
+            {
+              "raw": "½ tsp baking powder",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "baking powder"
+            },
+            {
+              "raw": "½ to ⅔ cup chocolate chips, plus more for the top (optional)",
+              "quantity": "½",
+              "unit": null,
+              "item": "to ⅔ cup chocolate chips, plus more for the top (optional)"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F and grease an 8×8 pan.",
+        "Combine all ingredients except the chocolate chips in a food processor and blend until completely smooth. A blender works in a pinch, but a food processor gives a better texture.",
+        "Stir in the chocolate chips and pour into the pan. Sprinkle extra chips over the top if you like.",
+        "Bake 15–18 minutes, then let cool at least 10 minutes before cutting.",
+        "If they still look a bit underdone, refrigerate overnight and they'll firm up."
+      ],
+      "notes": [
+        "Flourless; oats give the structure.",
+        "The source says the chocolate chips aren't optional.",
+        "Serve them before you mention the beans."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "desserts--cookies-and-cream-twix-bars",
+      "title": "Cookies and Cream Twix Bars",
+      "category": "Desserts",
+      "file": "Desserts/Cookies and Cream Twix Bars.md",
+      "source": {
+        "text": "@sweetlymeasured (Instagram post, saved screenshot)",
+        "url": null
+      },
+      "servings": "Not specified",
+      "time": {
+        "prep": "Not specified",
+        "cook": "None",
+        "total": "About 40 min plus prep (30 min + 10 min freezing)"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 pack gluten-free Oreos (cookies and filling separated)",
+              "quantity": "1",
+              "unit": null,
+              "item": "pack gluten-free Oreos (cookies and filling separated)"
+            },
+            {
+              "raw": "1 cup white chocolate chips, melted",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "white chocolate chips, melted"
+            },
+            {
+              "raw": "1½ cups milk or dark chocolate chips (for coating)",
+              "quantity": "1½",
+              "unit": "cups",
+              "item": "milk or dark chocolate chips (for coating)"
+            },
+            {
+              "raw": "1 tbsp refined coconut oil",
+              "quantity": "1",
+              "unit": "tbsp",
+              "item": "refined coconut oil"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Separate: twist open the Oreos, scrape the cream filling into a bowl, and set the chocolate cookie halves aside.",
+        "Make the filling: melt the white chocolate chips, then mix them directly into the Oreo cream filling until smooth and creamy.",
+        "Base layer: line a dish and press down a tight layer of the chocolate cookie halves.",
+        "Cream layer: spread the white chocolate–Oreo cream mixture evenly over the cookie base.",
+        "Slice and freeze: freeze 30 minutes to set, then slice into individual Twix-style bars.",
+        "Coat: melt the chocolate chips with the coconut oil. Dip each bar until fully coated, place back on parchment paper, and freeze 10 minutes until the shell snaps."
+      ],
+      "notes": [
+        "Transcribed from a screenshot of an Instagram caption. The post didn't give a yield or pan size.",
+        "No-bake. Clara will probably love these."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "desserts--creamy-chocolate-fudge",
       "title": "Creamy Chocolate Fudge",
       "category": "Desserts",
@@ -3261,6 +3429,100 @@
       }
     },
     {
+      "id": "mains--bbq-chicken-potato-bowls",
+      "title": "BBQ Chicken Potato Bowls",
+      "category": "Mains",
+      "file": "Mains/BBQ Chicken Potato Bowls.md",
+      "source": {
+        "text": "@eats.with.katie (Instagram post, saved screenshot)",
+        "url": null
+      },
+      "servings": "About 3",
+      "time": {
+        "prep": "Not specified",
+        "cook": "2–4 hours (crock pot) or about 30 min (oven)",
+        "total": "Varies"
+      },
+      "oven": "400°F (chicken, oven method); 425°F (potatoes)",
+      "diet": null,
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 lb chicken breast (pork works too; leftovers work great)",
+              "quantity": "1",
+              "unit": "lb",
+              "item": "chicken breast (pork works too; leftovers work great)"
+            },
+            {
+              "raw": "2–3 russet potatoes",
+              "quantity": "2–3",
+              "unit": null,
+              "item": "russet potatoes"
+            },
+            {
+              "raw": "¾ cup BBQ sauce, divided (½ cup + ¼ cup)",
+              "quantity": "¾",
+              "unit": "cup",
+              "item": "BBQ sauce, divided (½ cup + ¼ cup)"
+            },
+            {
+              "raw": "Salt, pepper, and paprika (½–1 tsp paprika for the potatoes)",
+              "quantity": null,
+              "unit": null,
+              "item": "Salt, pepper, and paprika (½–1 tsp paprika for the potatoes)"
+            },
+            {
+              "raw": "1 tbsp oil",
+              "quantity": "1",
+              "unit": "tbsp",
+              "item": "oil"
+            },
+            {
+              "raw": "Cheese, for topping",
+              "quantity": null,
+              "unit": null,
+              "item": "Cheese, for topping"
+            },
+            {
+              "raw": "Ranch (optional)",
+              "quantity": null,
+              "unit": null,
+              "item": "Ranch (optional)"
+            },
+            {
+              "raw": "Green onion, for topping",
+              "quantity": null,
+              "unit": null,
+              "item": "Green onion, for topping"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Season the chicken on each side with salt, pepper, and paprika.",
+        "Add the chicken to the crock pot with ½ cup BBQ sauce. (For the oven, do the same in a baking dish at 400°F.)",
+        "Cook on low 3–4 hours or high 2–3 hours, until the chicken is cooked through (25–30 minutes in the oven, depending on size).",
+        "Preheat the oven to 425°F.",
+        "Dice the potatoes into small chunks and toss with a dash of salt, pepper, ½–1 tsp paprika, and 1 tbsp oil. Spread on a lined or greased baking sheet.",
+        "Bake 20–30 minutes, until the potatoes are cooked and crispy.",
+        "When the chicken is cooked, shred it and mix with the remaining ¼ cup BBQ sauce.",
+        "Build bowls with potatoes and BBQ chicken, then top with shredded cheese, ranch, green onion, and any other toppings."
+      ],
+      "notes": [
+        "Pairs well with coleslaw, grilled corn and tomato salad, pickled onions, or roasted vegetables.",
+        "Per the post: about 465 cal, 10g fat, 57g carbs, 36g protein per serving (⅓ of the potatoes, ~5 oz chicken, 1 oz cheese).",
+        "For lower fat, skip the cheese and air fry the potatoes without oil. For lower carb, use a low- or no-sugar BBQ sauce and fewer potatoes.",
+        "Mild and kid-friendly, and the recipe already makes about 3 servings."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "mains--baked-ziti-casserole",
       "title": "Baked Ziti Casserole",
       "category": "Mains",
@@ -4353,6 +4615,185 @@
         "Bake at 350°F for about 20 minutes, until bubbly."
       ],
       "notes": [],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--chickpea-ranch-casserole",
+      "title": "Chickpea Ranch Casserole",
+      "category": "Mains",
+      "file": "Mains/Chickpea Ranch Casserole.md",
+      "source": {
+        "text": "Live Eat Learn",
+        "url": "https://www.liveeatlearn.com/chickpea-ranch-casserole/"
+      },
+      "servings": "6",
+      "time": {
+        "prep": "10 min",
+        "cook": "35 min",
+        "total": "45 min"
+      },
+      "oven": "375°F",
+      "diet": "Vegetarian",
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 cup ranch dressing",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "ranch dressing"
+            },
+            {
+              "raw": "4 cloves garlic, minced",
+              "quantity": "4",
+              "unit": "cloves",
+              "item": "garlic, minced"
+            },
+            {
+              "raw": "1 tsp smoked paprika",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "smoked paprika"
+            },
+            {
+              "raw": "4 cups broccoli, cut into bite-sized florets",
+              "quantity": "4",
+              "unit": "cups",
+              "item": "broccoli, cut into bite-sized florets"
+            },
+            {
+              "raw": "2 (15-oz) cans chickpeas, drained",
+              "quantity": "2",
+              "unit": null,
+              "item": "(15-oz) cans chickpeas, drained"
+            },
+            {
+              "raw": "2 cups quick-cooking brown rice (e.g., Minute Brown Rice)",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "quick-cooking brown rice (e.g., Minute Brown Rice)"
+            },
+            {
+              "raw": "2 cups vegetable broth",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "vegetable broth"
+            },
+            {
+              "raw": "1 cup grated mozzarella, divided",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "grated mozzarella, divided"
+            },
+            {
+              "raw": "1 cup grated cheddar, divided",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "grated cheddar, divided"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Preheat the oven to 375°F. Lightly grease a 9×13-inch casserole dish.",
+        "In the dish, stir together the ranch dressing, garlic, and smoked paprika.",
+        "Add the broccoli, chickpeas, rice, and broth. Add half of the mozzarella and half of the cheddar, then stir everything together.",
+        "Sprinkle the remaining cheese on top. Cover tightly with foil and bake 25 minutes, until the rice is mostly tender.",
+        "Remove the foil and bake uncovered 10 more minutes, until the rice is tender.",
+        "Serve warm, topped with fresh black pepper, with crusty bread on the side."
+      ],
+      "notes": [
+        "Use quick-cooking rice. The author tested regular brown rice and it took too long, which overcooked the broccoli.",
+        "If the rice is still firm when you uncover it, cover again for another 10 minutes. If there's extra liquid at the end, bake a little longer uncovered.",
+        "Cauliflower, mushrooms, or green beans can replace the broccoli. Any white bean (or black or pinto) can replace the chickpeas.",
+        "Make ahead: assemble up to 2 days ahead, leaving out the rice and broth until just before baking.",
+        "Leftovers keep up to 4 days. Add a splash of broth when reheating."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--creamy-pesto-butter-beans",
+      "title": "Creamy Pesto Butter Beans",
+      "category": "Mains",
+      "file": "Mains/Creamy Pesto Butter Beans.md",
+      "source": {
+        "text": "Live Eat Learn",
+        "url": "https://www.liveeatlearn.com/pesto-butter-beans/"
+      },
+      "servings": "4",
+      "time": {
+        "prep": "10 min",
+        "cook": "20 min",
+        "total": "30 min"
+      },
+      "oven": null,
+      "diet": "Vegetarian",
+      "cuisine": "Italian",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "2 tbsp olive oil",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "olive oil"
+            },
+            {
+              "raw": "2 cloves garlic, minced",
+              "quantity": "2",
+              "unit": "cloves",
+              "item": "garlic, minced"
+            },
+            {
+              "raw": "4 oz cream cheese",
+              "quantity": "4",
+              "unit": "oz",
+              "item": "cream cheese"
+            },
+            {
+              "raw": "½ cup pesto",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "pesto"
+            },
+            {
+              "raw": "2 (15-oz) cans butter beans, drained, with the liquid reserved",
+              "quantity": "2",
+              "unit": null,
+              "item": "(15-oz) cans butter beans, drained, with the liquid reserved"
+            },
+            {
+              "raw": "1 pint cherry tomatoes, half of them cut in half",
+              "quantity": "1",
+              "unit": null,
+              "item": "pint cherry tomatoes, half of them cut in half"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Heat the olive oil in a large skillet over medium-low heat. Add the garlic and cook until fragrant, about 1 minute.",
+        "Stir in the cream cheese, pesto, and a splash of the reserved bean liquid (about ½ cup). Stir until melted and smooth.",
+        "Stir in the butter beans and cherry tomatoes. Cover and simmer gently for 15 minutes.",
+        "Serve warm with crusty bread."
+      ],
+      "notes": [
+        "Keep the heat low, because pesto turns bitter over high heat.",
+        "Drain the beans but don't rinse them. The reserved liquid is what makes the sauce silky.",
+        "Also good over rice, pasta, or baked potatoes. Serve with the GF sourdough.",
+        "Swaps from the source: cannellini or chickpeas for the butter beans, mascarpone or sour cream for the cream cheese, sun-dried tomatoes for the cherry tomatoes. Stir in greens for the last 5 minutes if you like.",
+        "Leftovers keep up to 4 days. Loosen with water or bean liquid when reheating.",
+        "Same idea as the Creamy Spinach Artichoke Butter Beans already in Mains, but a different recipe."
+      ],
       "dietary_flags": {
         "gluten_free_stated": false,
         "possible_gluten_ingredients": []
@@ -6996,6 +7437,98 @@
       }
     },
     {
+      "id": "mains--mexican-street-corn-chicken-bowl",
+      "title": "Mexican Street Corn Chicken Bowl",
+      "category": "Mains",
+      "file": "Mains/Mexican Street Corn Chicken Bowl.md",
+      "source": {
+        "text": "@eatinghealthymag (Instagram post, saved screenshot)",
+        "url": null
+      },
+      "servings": "1",
+      "time": {
+        "prep": "10 min",
+        "cook": "15 min",
+        "total": "25 min"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Mexican",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 large chicken breast, sliced",
+              "quantity": "1",
+              "unit": null,
+              "item": "large chicken breast, sliced"
+            },
+            {
+              "raw": "1 cup cooked white rice",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "cooked white rice"
+            },
+            {
+              "raw": "½ cup corn kernels",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "corn kernels"
+            },
+            {
+              "raw": "½ avocado, diced",
+              "quantity": "½",
+              "unit": null,
+              "item": "avocado, diced"
+            },
+            {
+              "raw": "2 tbsp cotija, crumbled",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "cotija, crumbled"
+            },
+            {
+              "raw": "1 tbsp mayo or Greek yogurt",
+              "quantity": "1",
+              "unit": "tbsp",
+              "item": "mayo or Greek yogurt"
+            },
+            {
+              "raw": "1 tsp chili powder, salt and pepper",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "chili powder, salt and pepper"
+            },
+            {
+              "raw": "Cilantro and lime wedges, to finish",
+              "quantity": null,
+              "unit": null,
+              "item": "Cilantro and lime wedges, to finish"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Season the chicken with chili powder, salt, and pepper, then grill or sear until golden and cooked through.",
+        "Char the corn in a hot dry pan, then toss it with the mayo and a little cotija for the classic street-corn finish.",
+        "Rest the chicken for a couple of minutes before slicing so the juices stay in the meat.",
+        "Build the bowl over the rice, arranging the sliced chicken, street corn, and avocado in their own sections.",
+        "Finish with the remaining cotija, torn cilantro, and lime wedges to squeeze over."
+      ],
+      "notes": [
+        "The post's full title is \"Mexican Street Corn Chicken Crunch Bowl.\"",
+        "Per the post: 510 cal, 38g protein, 42g carbs, 20g fat, 6g fiber per bowl.",
+        "Tips from the post: char the corn in a dry pan until it picks up dark spots, and season the chicken before it goes in the pan so the chili powder toasts into a crust.",
+        "The ingredient amounts are for one bowl. Multiply by 3 for the family.",
+        "Only 1 tsp of chili powder, so it's mild. Danielle should like it. Mike can add hot sauce or jalapeños."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
       "id": "mains--nacho-baked-potato",
       "title": "Nacho Baked Potato",
       "category": "Mains",
@@ -7080,6 +7613,107 @@
       "dietary_flags": {
         "gluten_free_stated": false,
         "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--one-pan-cheesy-pasta-bolognese",
+      "title": "One Pan Cheesy Pasta Bolognese",
+      "category": "Mains",
+      "file": "Mains/One Pan Cheesy Pasta Bolognese.md",
+      "source": {
+        "text": "@eatinghealthymag (Instagram post, saved screenshot)",
+        "url": null
+      },
+      "servings": "Not specified",
+      "time": {
+        "prep": "10 min",
+        "cook": "20 min",
+        "total": "30 min"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Italian",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "8 oz penne pasta",
+              "quantity": "8",
+              "unit": "oz",
+              "item": "penne pasta"
+            },
+            {
+              "raw": "½ lb ground beef",
+              "quantity": "½",
+              "unit": "lb",
+              "item": "ground beef"
+            },
+            {
+              "raw": "1 cup marinara or crushed tomatoes",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "marinara or crushed tomatoes"
+            },
+            {
+              "raw": "1 cup shredded mozzarella",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "shredded mozzarella"
+            },
+            {
+              "raw": "½ onion, diced",
+              "quantity": "½",
+              "unit": null,
+              "item": "onion, diced"
+            },
+            {
+              "raw": "3 cloves garlic, minced",
+              "quantity": "3",
+              "unit": "cloves",
+              "item": "garlic, minced"
+            },
+            {
+              "raw": "2 cups beef broth or water",
+              "quantity": "2",
+              "unit": "cups",
+              "item": "beef broth or water"
+            },
+            {
+              "raw": "1 tsp Italian seasoning, salt and pepper",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "Italian seasoning, salt and pepper"
+            },
+            {
+              "raw": "Fresh parsley, to finish",
+              "quantity": null,
+              "unit": null,
+              "item": "Fresh parsley, to finish"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Brown the ground beef with the onion and garlic over medium-high heat until the meat is crisp and the onion is soft.",
+        "Stir in the marinara, Italian seasoning, salt, and pepper, and let it simmer for a couple of minutes to deepen the flavor.",
+        "Add the dry penne and the broth, then simmer covered, stirring now and then, until the pasta is tender and most of the liquid is absorbed.",
+        "Scatter the mozzarella over the top, cover, and let it melt off the heat into a gooey layer.",
+        "Finish with fresh parsley and serve straight from the pan."
+      ],
+      "notes": [
+        "Per the post: 540 cal, 32g protein, 58g carbs, 20g fat, 5g fiber per serving.",
+        "Tips from the post: cooking the pasta in the sauce soaks up flavor and saves a pot, and melting the cheese under a lid off the heat keeps the bottom from burning.",
+        "Simmer time will depend on the pasta brand, so check doneness and liquid as it cooks.",
+        "Italian, cheesy and not spicy, so it should suit the whole family."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": [
+          "Pasta",
+          "pasta",
+          "penne"
+        ]
       }
     },
     {
@@ -8016,6 +8650,128 @@
       "dietary_flags": {
         "gluten_free_stated": false,
         "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "mains--salmon-teriyaki-bowl",
+      "title": "Salmon Teriyaki Bowl",
+      "category": "Mains",
+      "file": "Mains/Salmon Teriyaki Bowl.md",
+      "source": {
+        "text": "@eatinghealthymag (Instagram post, saved screenshot)",
+        "url": null
+      },
+      "servings": "1",
+      "time": {
+        "prep": "10 min",
+        "cook": "15 min",
+        "total": "25 min"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "Japanese-inspired",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 salmon fillet, 6 oz",
+              "quantity": "1",
+              "unit": null,
+              "item": "salmon fillet, 6 oz"
+            },
+            {
+              "raw": "1 cup cooked white rice",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "cooked white rice"
+            },
+            {
+              "raw": "½ cucumber, diced",
+              "quantity": "½",
+              "unit": null,
+              "item": "cucumber, diced"
+            },
+            {
+              "raw": "½ cup shredded carrot",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "shredded carrot"
+            },
+            {
+              "raw": "½ cup edamame, shelled",
+              "quantity": "½",
+              "unit": "cup",
+              "item": "edamame, shelled"
+            },
+            {
+              "raw": "½ avocado, sliced",
+              "quantity": "½",
+              "unit": null,
+              "item": "avocado, sliced"
+            },
+            {
+              "raw": "1 tsp sesame seeds",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "sesame seeds"
+            },
+            {
+              "raw": "Scallions, to finish",
+              "quantity": null,
+              "unit": null,
+              "item": "Scallions, to finish"
+            }
+          ]
+        },
+        {
+          "group": "Teriyaki glaze",
+          "items": [
+            {
+              "raw": "2 tbsp soy sauce",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "soy sauce"
+            },
+            {
+              "raw": "1 tbsp honey",
+              "quantity": "1",
+              "unit": "tbsp",
+              "item": "honey"
+            },
+            {
+              "raw": "1 tsp sesame oil",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "sesame oil"
+            },
+            {
+              "raw": "1 clove garlic, minced",
+              "quantity": "1",
+              "unit": "clove",
+              "item": "garlic, minced"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Whisk the soy sauce, honey, sesame oil, and garlic together into a quick teriyaki glaze.",
+        "Sear the salmon skin-side down in a hot pan for about 4 minutes, until the skin is crisp and golden.",
+        "Flip the fillet, spoon the glaze over, and cook 2 more minutes until it turns sticky and coats the fish.",
+        "Build the bowl over the rice, arranging the cucumber, carrot, edamame, and avocado in their own sections.",
+        "Set the glazed salmon in the center and finish with sesame seeds and scallions."
+      ],
+      "notes": [
+        "Per the post: 540 cal, 36g protein, 52g carbs, 20g fat, 7g fiber per bowl.",
+        "Tips from the post: pat the salmon dry so the glaze clings, and add the glaze only in the last couple of minutes because honey burns quickly over high heat.",
+        "The ingredient amounts are for one bowl. Multiply by 3 for the family.",
+        "Mild and sweet rather than spicy. Mike can add sriracha to his bowl."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": [
+          "soy sauce"
+        ]
       }
     },
     {
@@ -9679,6 +10435,102 @@
         "Best made 4–5 hours ahead at most, so the cucumbers stay crisp. To make further ahead, store the sliced cucumbers and the dressing separately and combine an hour before serving.",
         "Keeps 2–3 days in the fridge. Drain any juices and stir before serving; add a little extra sour cream if needed.",
         "Not spicy, and no substitutions needed for Danielle."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "sides--garlic-parmesan-roasted-cauliflower",
+      "title": "Garlic-Parmesan Roasted Cauliflower",
+      "category": "Sides",
+      "file": "Sides/Garlic-Parmesan Roasted Cauliflower.md",
+      "source": {
+        "text": "Dishing Out Health",
+        "url": "https://dishingouthealth.com/parmesan-roasted-cauliflower/"
+      },
+      "servings": "4",
+      "time": {
+        "prep": "10 min",
+        "cook": "30 min",
+        "total": "40 min"
+      },
+      "oven": "450°F",
+      "diet": "Vegetarian",
+      "cuisine": null,
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 medium head cauliflower, cut into florets (about 6–8 cups)",
+              "quantity": "1",
+              "unit": null,
+              "item": "medium head cauliflower, cut into florets (about 6–8 cups)"
+            },
+            {
+              "raw": "3 tbsp extra-virgin olive oil",
+              "quantity": "3",
+              "unit": "tbsp",
+              "item": "extra-virgin olive oil"
+            },
+            {
+              "raw": "1½ tsp paprika",
+              "quantity": "1½",
+              "unit": "tsp",
+              "item": "paprika"
+            },
+            {
+              "raw": "¾ tsp kosher salt",
+              "quantity": "¾",
+              "unit": "tsp",
+              "item": "kosher salt"
+            },
+            {
+              "raw": "½ tsp cracked black pepper",
+              "quantity": "½",
+              "unit": "tsp",
+              "item": "cracked black pepper"
+            },
+            {
+              "raw": "3 garlic cloves, minced",
+              "quantity": "3",
+              "unit": null,
+              "item": "garlic cloves, minced"
+            },
+            {
+              "raw": "2–3 tbsp grated Parmesan",
+              "quantity": "2–3",
+              "unit": "tbsp",
+              "item": "grated Parmesan"
+            },
+            {
+              "raw": "Juice of ½ lemon",
+              "quantity": null,
+              "unit": null,
+              "item": "Juice of ½ lemon"
+            },
+            {
+              "raw": "2 tbsp finely chopped fresh parsley",
+              "quantity": "2",
+              "unit": "tbsp",
+              "item": "finely chopped fresh parsley"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "Put a large rimmed baking sheet on the center rack and preheat the oven to 450°F.",
+        "Cut the cauliflower into small florets and toss in a large bowl with the olive oil, paprika, salt, and pepper.",
+        "Spread the cauliflower in a single layer on the hot baking sheet without crowding (it should sizzle). Roast 20–25 minutes, tossing once halfway, until lightly charred and tender.",
+        "Sprinkle the garlic and Parmesan over the cauliflower and roast 5 more minutes.",
+        "Squeeze the lemon juice over, transfer to a bowl, garnish with parsley, and serve warm."
+      ],
+      "notes": [
+        "Preheating the pan, cutting even florets with flat sides, and using plenty of oil all help the browning.",
+        "Florets can be cut up to 3 days ahead. Leftovers keep up to 5 days. Reheat in the air fryer or a 350°F oven to crisp them back up.",
+        "Fresh dill or chives can replace the parsley."
       ],
       "dietary_flags": {
         "gluten_free_stated": false,
