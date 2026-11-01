@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:19:55.998526+00:00",
+  "generated_at": "2026-11-01T18:53:57.245585+00:00",
   "recipe_count": 134,
   "categories": [
     "Baking & Bread",
@@ -30,6 +30,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -128,6 +129,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -247,6 +249,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -369,6 +372,7 @@
       "oven": "475°F preheat, bake at 450°F (Dutch oven)",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -452,6 +456,7 @@
       "oven": null,
       "diet": "Gluten-Free, Vegan, Soy-Free, Nut-Free",
       "cuisine": "Artisan Bread",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -572,6 +577,7 @@
       "oven": "500°F preheat, reduce to 450°F for baking",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-06",
       "ingredient_groups": [
         {
           "group": null,
@@ -651,6 +657,7 @@
       "oven": "500°F, then reduced to 450°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -777,6 +784,7 @@
       "oven": "450°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -858,6 +866,7 @@
       "oven": "425°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -962,6 +971,7 @@
       "oven": "450°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1041,6 +1051,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1147,6 +1158,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1240,6 +1252,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1344,6 +1357,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1418,6 +1432,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1478,6 +1493,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1557,6 +1573,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1646,6 +1663,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1703,6 +1721,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -1805,6 +1824,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -1871,6 +1891,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -1955,6 +1976,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2029,6 +2051,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Cake",
@@ -2119,6 +2142,7 @@
       "oven": "375°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Base",
@@ -2203,6 +2227,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2282,6 +2307,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Cookies",
@@ -2435,6 +2461,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2534,6 +2561,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2613,6 +2641,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2677,6 +2706,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2781,6 +2811,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Cake",
@@ -2927,6 +2958,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -2983,6 +3015,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Crust",
@@ -3138,6 +3171,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -3210,6 +3244,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3319,6 +3354,7 @@
       "oven": null,
       "diet": "Vegan",
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3446,6 +3482,7 @@
       "oven": "400°F (chicken, oven method); 425°F (potatoes)",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -3540,6 +3577,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3669,6 +3707,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3747,6 +3786,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3825,6 +3865,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -3905,6 +3946,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Mexican-inspired",
+      "date_added": "2026-08-23",
       "ingredient_groups": [
         {
           "group": "Taco seasoning mix",
@@ -4136,6 +4178,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "American",
+      "date_added": "2026-08-23",
       "ingredient_groups": [
         {
           "group": null,
@@ -4256,6 +4299,7 @@
       "oven": "350°F",
       "diet": "Keto, gluten-free",
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -4352,6 +4396,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -4428,6 +4473,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -4501,6 +4547,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -4572,6 +4619,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -4638,6 +4686,7 @@
       "oven": "375°F",
       "diet": "Vegetarian",
       "cuisine": null,
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -4737,6 +4786,7 @@
       "oven": null,
       "diet": "Vegetarian",
       "cuisine": "Italian",
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -4817,6 +4867,7 @@
       "oven": null,
       "diet": "Vegetarian",
       "cuisine": null,
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -4965,6 +5016,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5067,6 +5119,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5171,6 +5224,7 @@
       "oven": null,
       "diet": "Gluten-free",
       "cuisine": null,
+      "date_added": "2026-08-16",
       "ingredient_groups": [
         {
           "group": null,
@@ -5281,6 +5335,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5402,6 +5457,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5477,6 +5533,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Cajun/Creole",
+      "date_added": "2026-08-23",
       "ingredient_groups": [
         {
           "group": null,
@@ -5609,6 +5666,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5690,6 +5748,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5793,6 +5852,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -5853,6 +5913,7 @@
       "oven": null,
       "diet": "Vegetarian (with vegetable broth)",
       "cuisine": "American / Italian",
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -5986,6 +6047,7 @@
       "oven": null,
       "diet": "Gluten-Free",
       "cuisine": "American (Detroit-style)",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6084,6 +6146,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": "Greek",
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -6179,6 +6242,7 @@
       "oven": "425°F",
       "diet": null,
       "cuisine": "Greek / Mediterranean",
+      "date_added": "2026-08-15",
       "ingredient_groups": [
         {
           "group": "For the seasoning",
@@ -6321,6 +6385,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6445,6 +6510,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": "American",
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -6549,6 +6615,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6628,6 +6695,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6703,6 +6771,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Chinese-inspired, paleo, gluten-free, dairy-free",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6834,6 +6903,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -6903,6 +6973,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7005,6 +7076,7 @@
       "oven": "375°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7111,6 +7183,7 @@
       "oven": "350–375°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7178,6 +7251,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7269,6 +7343,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7360,6 +7435,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7454,6 +7530,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Mexican",
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -7546,6 +7623,7 @@
       "oven": "450°F",
       "diet": "Vegan",
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7633,6 +7711,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Italian",
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -7734,6 +7813,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Mexican",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -7877,6 +7957,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Italian-inspired, vegan, gluten-free",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Pea pesto",
@@ -8014,6 +8095,7 @@
       "oven": "425–450°F, then broil",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8072,6 +8154,7 @@
       "oven": "400°F, then reduced to 350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Ketchup glaze",
@@ -8244,6 +8327,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8343,6 +8427,7 @@
       "oven": "225°F, covered; uncovered finish",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8406,6 +8491,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8463,6 +8549,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8523,6 +8610,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8615,6 +8703,7 @@
       "oven": "375°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8670,6 +8759,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Japanese-inspired",
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -8792,6 +8882,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8844,6 +8935,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -8913,6 +9005,7 @@
       "oven": "400°F (for baking)",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9012,6 +9105,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9097,6 +9191,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9181,6 +9276,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9251,6 +9347,7 @@
       "oven": "475°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9310,6 +9407,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9374,6 +9472,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9441,6 +9540,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9558,6 +9658,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9639,6 +9740,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "1. Herb-garlic butter",
@@ -9849,6 +9951,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9918,6 +10021,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -9983,6 +10087,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10070,6 +10175,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Greek",
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -10164,6 +10270,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10275,6 +10382,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10360,6 +10468,7 @@
       "oven": null,
       "diet": "Vegetarian",
       "cuisine": "American",
+      "date_added": "2026-08-16",
       "ingredient_groups": [
         {
           "group": null,
@@ -10459,6 +10568,7 @@
       "oven": "450°F",
       "diet": "Vegetarian",
       "cuisine": null,
+      "date_added": "2026-10-25",
       "ingredient_groups": [
         {
           "group": null,
@@ -10555,6 +10665,7 @@
       "oven": "400°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10673,6 +10784,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10746,6 +10858,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10824,6 +10937,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10885,6 +10999,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -10959,6 +11074,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11043,6 +11159,7 @@
       "oven": "475°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11132,6 +11249,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11201,6 +11319,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11270,6 +11389,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11363,6 +11483,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11443,6 +11564,7 @@
       "oven": "350°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11503,6 +11625,7 @@
       "oven": null,
       "diet": "Keto, Gluten-Free",
       "cuisine": "American",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11597,6 +11720,7 @@
       "oven": "250°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11700,6 +11824,7 @@
       "oven": "250°F (smoker or pellet grill)",
       "diet": null,
       "cuisine": "Tex-Mex",
+      "date_added": "2026-10-03",
       "ingredient_groups": [
         {
           "group": null,
@@ -11796,6 +11921,7 @@
       "oven": "375°F",
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11869,6 +11995,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -11944,6 +12071,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -12056,6 +12184,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "American / Tex-Mex",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -12180,6 +12309,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -12292,6 +12422,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Polish-American",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -12419,6 +12550,7 @@
       "oven": null,
       "diet": null,
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
@@ -12529,6 +12661,7 @@
       "oven": null,
       "diet": null,
       "cuisine": "Comfort food, paleo, gluten-free",
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": "Soup",
@@ -12704,6 +12837,7 @@
       "oven": null,
       "diet": "Egg-free, gluten-free, peanut/tree-nut-free",
       "cuisine": null,
+      "date_added": "2026-08-04",
       "ingredient_groups": [
         {
           "group": null,
