@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T18:53:57.245585+00:00",
-  "recipe_count": 134,
+  "generated_at": "2026-11-08T18:10:02.640810+00:00",
+  "recipe_count": 135,
   "categories": [
     "Baking & Bread",
     "Breakfast",
@@ -12912,6 +12912,132 @@
       ],
       "dietary_flags": {
         "gluten_free_stated": true,
+        "possible_gluten_ingredients": []
+      }
+    },
+    {
+      "id": "soups-stews--white-chicken-chili",
+      "title": "White Chicken Chili",
+      "category": "Soups & Stews",
+      "file": "Soups & Stews/White Chicken Chili.md",
+      "source": {
+        "text": "Family recipe (project doc \"White Chicken Chili\")",
+        "url": null
+      },
+      "servings": "6",
+      "time": {
+        "prep": "—",
+        "cook": "~45 min",
+        "total": "—"
+      },
+      "oven": null,
+      "diet": null,
+      "cuisine": "American / Tex-Mex",
+      "date_added": "2026-11-08",
+      "ingredient_groups": [
+        {
+          "group": null,
+          "items": [
+            {
+              "raw": "1 lb. boneless skinless chicken breasts, diced (or frozen bag of cooked Tyson pulled chicken breast)",
+              "quantity": "1",
+              "unit": "lb",
+              "item": "boneless skinless chicken breasts, diced (or frozen bag of cooked Tyson pulled chicken breast)"
+            },
+            {
+              "raw": "1 Tbsp. vegetable oil",
+              "quantity": "1",
+              "unit": "Tbsp",
+              "item": "vegetable oil"
+            },
+            {
+              "raw": "1 medium onion",
+              "quantity": "1",
+              "unit": null,
+              "item": "medium onion"
+            },
+            {
+              "raw": "1 1/2 tsp. garlic powder",
+              "quantity": "1 1/2",
+              "unit": "tsp",
+              "item": "garlic powder"
+            },
+            {
+              "raw": "2 cans (15.5 oz. each) great northern beans",
+              "quantity": "2",
+              "unit": "cans",
+              "item": "(15.5 oz. each) great northern beans"
+            },
+            {
+              "raw": "1 can (14.5 oz.) chicken broth",
+              "quantity": "1",
+              "unit": "can",
+              "item": "(14.5 oz.) chicken broth"
+            },
+            {
+              "raw": "2 cans (4 oz. each) chopped green chilies",
+              "quantity": "2",
+              "unit": "cans",
+              "item": "(4 oz. each) chopped green chilies"
+            },
+            {
+              "raw": "1 tsp. salt",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "salt"
+            },
+            {
+              "raw": "1 tsp. ground cumin",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "ground cumin"
+            },
+            {
+              "raw": "1 tsp. dried oregano",
+              "quantity": "1",
+              "unit": "tsp",
+              "item": "dried oregano"
+            },
+            {
+              "raw": "1/2 tsp. black pepper",
+              "quantity": "1/2",
+              "unit": "tsp",
+              "item": "black pepper"
+            },
+            {
+              "raw": "1/4 tsp. cayenne pepper",
+              "quantity": "1/4",
+              "unit": "tsp",
+              "item": "cayenne pepper"
+            },
+            {
+              "raw": "1 cup (8 oz.) sour cream",
+              "quantity": "1",
+              "unit": "cup",
+              "item": "(8 oz.) sour cream"
+            },
+            {
+              "raw": "1/2 cup heavy whipping cream",
+              "quantity": "1/2",
+              "unit": "cup",
+              "item": "heavy whipping cream"
+            }
+          ]
+        }
+      ],
+      "instructions": [
+        "In a Dutch oven, cook chicken in oil until lightly browned.",
+        "Add onion and garlic powder and cook until onions are tender.",
+        "Add the beans, broth, chilies, and seasonings. Bring to a boil.",
+        "Reduce heat; simmer, uncovered, for 30 minutes.",
+        "Remove from the heat; stir in sour cream and cream."
+      ],
+      "notes": [
+        "More chicken broth can be added if desired.",
+        "Mild heat overall (only 1/4 tsp. cayenne plus mild green chilies), so likely fine for Danielle and Clara; Mike can add hot sauce."
+      ],
+      "dietary_flags": {
+        "gluten_free_stated": false,
         "possible_gluten_ingredients": []
       }
     }
